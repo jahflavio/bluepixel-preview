@@ -1,0 +1,1 @@
+function r(o,t={}){typeof window>"u"||(window.dataLayer||=[]).push({event:o,...t})}const e=o=>r("form_start",{form_name:"contacto_sitio_vivo",form_source:o}),a=o=>r("form_error",{form_name:"contacto_sitio_vivo",error_message:o.slice(0,200)});export{a,r as e,e as t};

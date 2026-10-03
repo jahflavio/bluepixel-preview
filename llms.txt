@@ -1,0 +1,113 @@
+# BluePixel
+
+> Consultora de ingeniería agéntica, desarrollo cloud-native y garantía FutureProof. Construimos agentes de IA, automatizaciones, plataformas digitales y experiencias UX/UI para empresas en México y Latinoamérica.
+
+Idioma: español (México), con versión completa en inglés en https://bluepixel.ai/en. Sitio: https://bluepixel.ai
+
+## Cuatro formas independientes de trabajar (no son etapas obligatorias)
+
+- [Servicio 01 · Consultoría Digital](https://bluepixel.ai/servicios/consultoria-digital): 2 a 4 semanas. Brindar certidumbre técnica, financiera y estratégica antes de comprometer capital en desarrollo.
+- [Servicio 02 · Agentes & Automatización](https://bluepixel.ai/servicios/agentes-automatizacion): 2 a 4 semanas. Poner en producción flujos agénticos e integraciones determinísticas sobre el stack tecnológico actual del cliente.
+- [Servicio 03 · Plataformas Digitales](https://bluepixel.ai/servicios/plataformas-digitales): 2 a 4 meses. Diseñar, validar y construir desde cero plataformas web, móviles o MVPs corporativos escalables.
+- [Servicio 04 · Evolución Digital](https://bluepixel.ai/servicios/evolucion-digital): Roadmap vivo de 6 o 12 meses. Acompañamiento tecnológico continuo para optimizar, escalar y evolucionar activos digitales existentes.
+
+## Seis capacidades
+
+- [UX/UI & Product Strategy](https://bluepixel.ai/capacidades/ux-ui-product-strategy): Diseño UX/UI y desarrollo web con investigación de usuarios, psicología conductual y metodología IMPATH™. Interfaces y Design Systems que tus usuarios adoptan.
+- [Software Engineering](https://bluepixel.ai/capacidades/software-engineering): Desarrollo de software empresarial cloud-native: plataformas web y móviles, APIs, microservicios y CI/CD sobre React, Node.js, Python y PostgreSQL.
+- [IA & Automatización (Agentic Automation)](https://bluepixel.ai/capacidades/agentic-ai-automation): Agentes de IA para empresas en México: RAG privado sobre tus datos, conectores MCP con tu ERP o CRM y despliegue en tu nube privada. Pruébalo aquí.
+- [Data & Analytics](https://bluepixel.ai/capacidades/data-analytics): Telemetría de producto con Mixpanel, pipelines de datos y dashboards ejecutivos en tiempo real para decidir con evidencia de comportamiento.
+- [Security & Reliability](https://bluepixel.ai/capacidades/security-reliability): Seguridad como propiedad del software: arquitectura Zero-Trust, hardening OWASP Top 10, SAST, cifrado y aislamiento en tu VPC. Certificación CyberVadis vigente.
+- [Consulting (Digital Consulting)](https://bluepixel.ai/capacidades/digital-consulting): Costo de inacción, backlog priorizado por ROI y business case antes de invertir. Consultoría digital con roadmap ejecutivo y FutureProof™ Framework.
+
+## Páginas de profundidad
+
+- [Desarrollo de aplicaciones móviles](https://bluepixel.ai/capacidades/software-engineering/aplicaciones-moviles): nativa, multiplataforma (React Native) o web app, con UX validado y APIs hacia los sistemas del cliente.
+- [Desarrollo web a la medida](https://bluepixel.ai/capacidades/software-engineering/desarrollo-web): sitio estático, autoadministrable, tienda en línea o aplicación web a la medida, con UX validado y APIs hacia los sistemas del cliente.
+- [Garantía FutureProof™](https://bluepixel.ai/futureproof): el sistema con el que se diseñan, construyen y evolucionan las plataformas, sus cinco principios y la diferencia frente a una fábrica de software.
+- [Metodología IMPATH™ y principios FutureProof™](https://bluepixel.ai/metodologia-impath): diagnóstico de fricción operativa y cinco principios de ingeniería, cada uno con una prueba ejecutable.
+
+## Principios
+
+- Certeza técnica y financiera antes de codificar.
+- Arquitectura desacoplada, protocolos abiertos (MCP) y cero vendor lock-in.
+- El código y los datos residen en la nube privada del cliente.
+- La seguridad es una propiedad de lo que se construye: Zero-Trust, hardening OWASP Top 10, análisis de código y dependencias en el pipeline, cifrado y aislamiento en VPC. Certificación vigente de CyberVadis.
+
+## Casos de estudio (nombrados por sector)
+
+- [Retail de electrónica](https://bluepixel.ai/casos-de-estudio/ecommerce-movil-retail): Checkout a pantalla completa, fichas con datos clave y categorías ordenadas.
+- [Marketplace de palcos y boletos](https://bluepixel.ai/casos-de-estudio/marketplace-palcos-boletos): Elegir palco sobre el mapa del recinto, con el evento siempre a la vista.
+- [Aerolínea latinoamericana](https://bluepixel.ai/casos-de-estudio/plataforma-lealtad-viajes): Un solo inicio de sesión, millas a la vista y beneficios en tarjetas.
+- [Multinacional de alimentos](https://bluepixel.ai/casos-de-estudio/analitica-multinacional): De dashboards de Power BI sin criterio común a un sistema de diseño para analítica.
+
+## Preguntas frecuentes
+
+- [Preguntas frecuentes](https://bluepixel.ai/preguntas-frecuentes): servicios y plazos, agentes de ia, seguridad y datos, proceso y contratación, costos e inversión.
+- [Texto completo del sitio para modelos de IA](https://bluepixel.ai/llms-full.txt): servicios, capacidades, casos y respuestas.
+
+## Transparencia
+
+- [Autoevaluación pública de este sitio](https://bluepixel.ai/autoevaluacion): puntaje, método y límites.
+- Las cifras de resultado de los casos de estudio se publican solo con su fuente y fecha de medición.
+
+## Contacto
+
+- [Contacto](https://bluepixel.ai/contacto) · hello@bluepixel.mx · WhatsApp +52 55 4484 4212
+
+# BluePixel (English)
+
+> Agentic engineering, cloud-native development and FutureProof guarantee consultancy. We build AI agents, automation, digital platforms and UX/UI experiences for companies in Mexico and Latin America.
+
+Language: English. Home: https://bluepixel.ai/en. The Spanish site (https://bluepixel.ai) has an equivalent page for every page listed here.
+
+## Four independent ways to work together (not mandatory stages)
+
+- [Service 01 · Digital Consulting](https://bluepixel.ai/en/services/digital-consulting): 2 to 4 weeks. To provide technical, financial and strategic certainty before committing capital to development.
+- [Service 02 · Agents & Automation](https://bluepixel.ai/en/services/agents-automation): 2 to 4 weeks. To put agentic workflows and deterministic integrations into production on the client's existing technology stack.
+- [Service 03 · Digital Platforms](https://bluepixel.ai/en/services/digital-platforms): 2 to 4 months. To design, validate and build scalable web and mobile platforms or corporate MVPs from scratch.
+- [Service 04 · Digital Evolution](https://bluepixel.ai/en/services/digital-evolution): Living roadmap of 6 or 12 months. Continuous technology support to optimize, scale and evolve existing digital assets.
+
+## Six capabilities
+
+- [UX/UI & Product Strategy](https://bluepixel.ai/en/capabilities/ux-ui-product-strategy): UX/UI design and web development with user research, behavioral psychology and the IMPATH™ methodology. Interfaces and Design Systems your users adopt.
+- [Software Engineering](https://bluepixel.ai/en/capabilities/software-engineering): Cloud-native enterprise software development: web and mobile platforms, APIs, microservices and CI/CD on React, Node.js, Python and PostgreSQL.
+- [Agentic AI & Automation](https://bluepixel.ai/en/capabilities/agentic-ai-automation): AI agents for companies in Mexico: private RAG over your data, MCP connectors to your ERP or CRM and deployment in your private cloud. Try it here.
+- [Data & Analytics](https://bluepixel.ai/en/capabilities/data-analytics): Product telemetry with Mixpanel, data pipelines and real-time executive dashboards to decide with evidence of behavior.
+- [Security & Reliability](https://bluepixel.ai/en/capabilities/security-reliability): Security as a property of the software: Zero-Trust architecture, OWASP Top 10 hardening, SAST, encryption and VPC isolation. Current CyberVadis certification.
+- [Digital Consulting](https://bluepixel.ai/en/capabilities/digital-consulting): Cost of inaction, ROI-prioritized backlog and business case before you invest. Digital consulting with an executive roadmap and the FutureProof™ Framework.
+
+## Deep-dive pages
+
+- [Mobile app development](https://bluepixel.ai/en/capabilities/software-engineering/mobile-apps): native, cross-platform (React Native) or web app, with validated UX and APIs into the client's systems.
+- [Custom web development](https://bluepixel.ai/en/capabilities/software-engineering/web-development): static site, self-managed site, online store or custom web application, with validated UX and APIs into the client's systems.
+- [FutureProof™ guarantee](https://bluepixel.ai/en/futureproof): the system used to design, build and evolve platforms, its five principles and how it differs from a software factory.
+- [IMPATH™ methodology and FutureProof™ principles](https://bluepixel.ai/en/methodology): operational friction diagnosis and five engineering principles, each with an executable proof.
+
+## Principles
+
+- Technical and financial certainty before coding.
+- Decoupled architecture, open protocols (MCP) and zero vendor lock-in.
+- Code and data live in the client's private cloud.
+- Security is a property of what we build: Zero-Trust, OWASP Top 10 hardening, code and dependency scanning in the pipeline, encryption and VPC isolation. Current CyberVadis certification.
+
+## Case studies (named by industry)
+
+- [Electronics retailer](https://bluepixel.ai/en/case-studies/mobile-ecommerce-retail): Full-screen checkout, product pages with key data and well-organized categories.
+- [Suite and ticket marketplace](https://bluepixel.ai/en/case-studies/suite-ticket-marketplace): Pick a suite on the venue map, with the event details always in view.
+- [Latin American airline](https://bluepixel.ai/en/case-studies/travel-loyalty-platform): One sign-in, miles in plain sight and benefits on visual cards.
+- [Multinational food company](https://bluepixel.ai/en/case-studies/multinational-analytics): From Power BI dashboards with no shared criteria to a design system for analytics.
+
+## FAQ
+
+- [FAQ](https://bluepixel.ai/en/faq): services and timelines, ai agents, security and data, process and hiring, costs and investment.
+- [Full site text for AI models](https://bluepixel.ai/llms-full.txt): services, capabilities, case studies and answers.
+
+## Transparency
+
+- [Public self-assessment of this site](https://bluepixel.ai/en/self-assessment): score, method and limits.
+- Case-study result figures are published only with their source and measurement date.
+
+## Contact
+
+- [Contact](https://bluepixel.ai/en/contact) · hello@bluepixel.mx · WhatsApp +52 55 4484 4212

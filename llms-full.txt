@@ -1,0 +1,647 @@
+# BluePixel: texto completo (español)
+
+## Servicios: cuatro formas independientes de trabajar
+
+### 01 · Consultoría Digital
+https://bluepixel.ai/servicios/consultoria-digital
+
+Brindar certidumbre técnica, financiera y estratégica antes de comprometer capital en desarrollo.
+Plazo: 2 a 4 semanas.
+Entregables: Diagnóstico de fricción operativa IMPATH™; Arquitectura técnica recomendada; Backlog priorizado por impacto financiero; Business case con ROI proyectado; Cálculo del costo de inacción.
+
+### 02 · Agentes & Automatización
+https://bluepixel.ai/servicios/agentes-automatizacion
+
+Poner en producción flujos agénticos e integraciones determinísticas sobre el stack tecnológico actual del cliente.
+Plazo: 2 a 4 semanas.
+Entregables: Agentes de IA autónomos (Agentic Automation); RAG privado sobre datos corporativos reales, diseñado para abstenerse cuando no hay sustento; Conectores determinísticos vía MCP (SAP, Salesforce, ERPs, APIs bancarias y logísticas); Despliegue en nube privada.
+
+### 03 · Plataformas Digitales
+https://bluepixel.ai/servicios/plataformas-digitales
+
+Diseñar, validar y construir desde cero plataformas web, móviles o MVPs corporativos escalables.
+Plazo: 2 a 4 meses.
+Entregables: Product Strategy (PS), prototipado y validación con usuarios reales; Diseño de UI de clase mundial; Desarrollo Full Stack Cloud-Native con arquitectura desacoplada; Pruebas automatizadas; Despliegue productivo con SLA 99.9%.
+
+### 04 · Evolución Digital
+https://bluepixel.ai/servicios/evolucion-digital
+
+Acompañamiento tecnológico continuo para optimizar, escalar y evolucionar activos digitales existentes.
+Plazo: Roadmap vivo de 6 o 12 meses.
+Entregables: Squad multidisciplinario dedicado (Tech Lead, AI Engineer, Senior Full Stack, UX/CRO Specialist); Monitoreo de UX Health Score; Reducción sistemática de deuda técnica; Optimización de tasas de conversión (CRO); Soporte con SLA empresarial.
+
+## Capacidades
+
+### UX/UI & Product Strategy
+https://bluepixel.ai/capacidades/ux-ui-product-strategy
+
+Investigamos la conducta real del usuario, probamos el prototipo con usuarios reales y entregamos un Design System listo para código, con la metodología IMPATH™.
+
+**¿Qué es un Design System?** Un Design System es el conjunto de componentes, reglas y tokens de diseño que comparten diseño e ingeniería: un botón se define una vez y se usa igual en todo el producto. Reduce el retrabajo y mantiene la interfaz coherente cuando el producto crece.
+
+Lo que resuelve:
+- Se diseña por opinión y el usuario abandona siempre en el mismo paso. → Investigamos la conducta real y mapeamos la fricción del journey antes de diseñar.
+- El prototipo se aprueba en una junta y falla con el primer usuario. → Lo probamos con usuarios reales antes de pasar a desarrollo.
+- Cada pantalla nueva se ve distinta y desarrollo la rehace a mano. → Un Design System con tokens que ingeniería usa directo en código.
+
+Qué recibes:
+- Mapa de fricción del journey del usuario: Dónde y por qué se atora el usuario, paso por paso.
+- Prototipo interactivo validado: Probado con usuarios reales antes de escribir código.
+- Design System con tokens listos para consumirse en código: Componentes y tokens documentados que ingeniería usa tal cual.
+- Backlog de mejoras priorizado por impacto: Qué mejorar primero, ordenado por impacto.
+
+Preguntas:
+- **¿Cuál es la diferencia entre UX/UI y Product Strategy?** UX/UI define cómo se ve y se siente el producto; Product Strategy define qué producto construir, para quién y en qué orden. Las trabajamos juntas para que el diseño responda a un objetivo de negocio medible.
+- **¿Validan el diseño con usuarios reales?** Sí. En la modalidad Plataformas Digitales el prototipo se valida con usuarios reales antes de pasar a desarrollo.
+- **¿Entregan un Design System?** Sí. Entregamos componentes y tokens documentados que el equipo de ingeniería consume directamente.
+- **¿También desarrollan el código?** Sí. Software Engineering construye lo que se diseña, o entregamos el Design System y el prototipo documentados para que los programe tu equipo.
+- **¿Pueden rediseñar una plataforma que ya está en producción?** Sí. Primero mapeamos dónde se atora el usuario y rediseñamos lo que más impacto tiene, por partes y sin detener la operación.
+
+### Software Engineering
+https://bluepixel.ai/capacidades/software-engineering
+
+Plataformas web y móviles cloud-native sobre React, Node.js, Python, TypeScript y PostgreSQL, con pruebas automatizadas en cada despliegue.
+
+**¿Qué es una arquitectura desacoplada?** Una arquitectura desacoplada divide el sistema en piezas independientes que se comunican por interfaces estables, de modo que una se puede cambiar o escalar sin romper las demás. Es lo que permite cambiar de proveedor de nube o de modelo de IA por configuración.
+
+**Una empresa de desarrollo de software que se mide en producción** Cada plataforma sale con pruebas automatizadas, pipeline de despliegue y arquitectura desacoplada: cambiar un proveedor o un modelo es configuración, no rehacer el sistema.
+
+Lo que resuelve:
+- Agregar una función rompe tres partes del sistema. → Arquitectura desacoplada y pruebas automatizadas en cada despliegue.
+- Lanzar una versión exige coordinación manual y ventanas nocturnas. → Un pipeline CI/CD que prueba y despliega cada cambio.
+- Cambiar de proveedor o de modelo obliga a rehacer la plataforma. → Protocolos abiertos y cero vendor lock-in: el cambio es configuración.
+
+Qué recibes:
+- Arquitectura desacoplada documentada: Diagramas y decisiones para que tu equipo entienda y mantenga el sistema.
+- Código fuente y datos en la nube privada del cliente: Todo vive en tu nube, no en la nuestra.
+- Pruebas automatizadas y despliegue productivo: Cada cambio pasa por pruebas antes de llegar a producción.
+- Observabilidad y SLA 99.9% en la modalidad Plataformas Digitales: Errores y disponibilidad a la vista desde el primer despliegue.
+- Infraestructura como código: Tu nube se crea con código versionado: se puede repetir y auditar.
+- APIs documentadas con OpenAPI: Contratos claros para que otros sistemas y equipos se conecten.
+
+Preguntas:
+- **¿Qué tecnologías usan?** React, Node.js, Python, TypeScript y PostgreSQL, sobre arquitecturas serverless o de contenedores en AWS, GCP o Azure, con pipelines CI/CD automatizados. La elección final depende de tu stack actual.
+- **¿De quién es el código?** De tu empresa: los repositorios y la infraestructura viven en tu cuenta de nube, con arquitectura desacoplada y protocolos abiertos. Las condiciones de propiedad se fijan en el contrato de cada proyecto.
+- **¿Trabajan junto a nuestro equipo interno?** Sí. Podemos sumarnos a tu equipo como una célula más o entregar módulos completos listos para producción, con el código y la documentación en tus repositorios.
+
+### IA & Automatización (Agentic Automation)
+https://bluepixel.ai/capacidades/agentic-ai-automation
+
+El agente consulta tu ERP o tu CRM vía MCP, ejecuta la tarea y cita su fuente. Sin reemplazar tus sistemas.
+
+**¿Qué es un agente de IA?** Un sistema que recibe un objetivo, decide los pasos y usa herramientas (consultar un sistema, calcular, enviar una solicitud) para cumplirlo, con supervisión y límites definidos. Un asistente conversa; un agente ejecuta. Por ejemplo: resuelve una solicitud de un cliente de principio a fin, concilia facturas contra el ERP o valida los documentos para dar de alta a un proveedor.
+
+**¿Qué es RAG?** RAG (generación aumentada por recuperación) es la técnica en la que el modelo primero busca fragmentos relevantes en una base de conocimiento propia y responde apoyándose en ellos, citando la fuente. Reduce las respuestas inventadas porque el agente puede abstenerse cuando no encuentra sustento.
+
+**¿En qué se diferencia de RPA?** RPA automatiza pasos fijos y predecibles; un agente maneja excepciones y lenguaje natural. En proyectos reales suelen combinarse: RPA para lo repetitivo y agentes para lo que requiere criterio.
+
+Lo que resuelve:
+- Tu equipo copia datos a mano entre el ERP, el CRM y el correo. → Un agente consulta tus sistemas vía MCP y ejecuta la tarea.
+- Un asistente genérico responde con seguridad algo que no está en tus documentos. → RAG privado que cita su fuente y se abstiene cuando no hay sustento.
+- Conectar IA parece exigir que reemplaces tus sistemas. → Conectores sobre lo que ya tienes: SAP, Salesforce, ERPs y APIs.
+
+Qué recibes:
+- Agente en producción sobre tu stack actual: Funcionando sobre tus sistemas actuales, sin reemplazarlos.
+- Base de conocimiento con citas y abstención cuando no hay sustento: Cada respuesta dice de qué documento salió.
+- Trazabilidad de cada ejecución del agente: Qué hizo el agente, cuándo y con qué datos.
+- Arquitectura agnóstica de proveedor: el modelo se cambia por configuración: Si sale un modelo mejor, se cambia por configuración.
+
+Preguntas:
+- **¿Mis datos se envían a un modelo público?** Diseñamos para que los datos y el código residan en tu nube privada, y el modelo es configurable para evitar dependencia de un solo proveedor.
+- **¿Reemplazan mi ERP o mi CRM?** No. Conectamos los agentes a tus sistemas actuales (SAP, Salesforce, ERPs, APIs) mediante el protocolo MCP, sin reemplazarlos.
+- **¿Con qué modelos de IA trabajan?** Con el que mejor resuelva tu caso. La arquitectura es agnóstica: cambiar de modelo o de proveedor es configuración, no rehacer el agente.
+
+### Data & Analytics
+https://bluepixel.ai/capacidades/data-analytics
+
+Qué hace tu usuario y qué KPI se movió, en un tablero para dirección: telemetría de producto, pipelines de datos y dashboards ejecutivos.
+
+**¿Qué es la telemetría de producto?** La telemetría de producto es el registro de lo que hacen los usuarios dentro de una plataforma (qué abren, dónde se detienen, dónde abandonan), con nombres de eventos definidos de antemano. Convierte las suposiciones en evidencia al decidir qué mejorar primero.
+
+**¿Qué es la analítica predictiva?** La analítica tiene tres escalones: descriptiva (qué pasó), diagnóstica (por qué pasó) y predictiva (qué va a pasar). La predictiva usa los datos históricos y de comportamiento para anticipar, por ejemplo, qué clientes están por irse, y actuar antes de que pase.
+
+Lo que resuelve:
+- Dirección recibe cifras distintas según quién arme el reporte. → Una sola taxonomía de eventos y cada cifra rastreable a su origen.
+- Sabes cuántos usuarios entran, pero no dónde abandonan. → Telemetría de producto que muestra el recorrido real.
+- El reporte llega tarde y la decisión ya se tomó sin él. → Tableros que se actualizan solos, construidos alrededor de los KPIs de dirección.
+
+Qué recibes:
+- Plan de medición y taxonomía de eventos: Qué se mide, con qué nombre y para qué decisión.
+- Dashboards ejecutivos: Los KPIs de dirección en una sola vista.
+- UX Health Score continuo dentro de Evolución Digital: La salud de la experiencia, medida mes a mes.
+
+Preguntas:
+- **¿Qué herramientas de analítica usan?** Mixpanel para telemetría de producto, pipelines de datos y tableros ejecutivos sobre la herramienta que ya tengas, como Power BI, Tableau o Looker.
+- **¿La medición respeta el consentimiento del usuario?** Sí. Diseñamos la medición para respetar el consentimiento del usuario y la LFPDPPP; en este sitio, las señales de medición y publicidad nacen denegadas hasta que el visitante decide.
+
+### Security & Reliability
+https://bluepixel.ai/capacidades/security-reliability
+
+Zero-Trust, hardening OWASP Top 10 en cada release y un pipeline que se bloquea ante dependencias vulnerables. Cifrado y aislamiento dentro de tu VPC.
+
+**¿Qué es la arquitectura Zero-Trust?** Zero-Trust es un modelo de seguridad en el que ningún usuario, servicio ni red se considera confiable por defecto: cada acceso se verifica y se limita a lo mínimo necesario. Reduce el daño posible si una credencial o un componente queda expuesto.
+
+Lo que resuelve:
+- La seguridad se revisa al final, cuando corregir cuesta más. → Zero-Trust y hardening OWASP Top 10 desde el primer sprint.
+- Una dependencia vulnerable llega a producción sin que nadie lo note. → Análisis de código y escaneo de dependencias que bloquean el pipeline.
+- El cuestionario de seguridad de un cliente frena la venta. → Controles técnicos documentados como base para responderlo.
+
+Qué recibes:
+- Controles técnicos documentados: Cifrado, aislamiento en VPC y trazabilidad de accesos, por escrito.
+- Pipeline con análisis de código y escaneo de dependencias: El despliegue se detiene si aparece una vulnerabilidad conocida.
+- Plan de remediación de hallazgos de terceros: Corregimos en código y arquitectura lo que encuentre una firma externa.
+- Matriz de accesos: Quién puede hacer qué en cada sistema, con el mínimo privilegio necesario.
+
+Preguntas:
+- **¿Qué credenciales de seguridad tienen?** Contamos con certificación vigente de CyberVadis y aplicamos las mejores prácticas de OWASP Top 10 en cada release.
+- **¿Qué cubre exactamente la capacidad de seguridad?** La seguridad de lo que construimos: arquitectura Zero-Trust, hardening OWASP Top 10 en cada release, análisis de código y dependencias en el pipeline, cifrado y aislamiento en VPC, y guardrails para IA. La auditoría independiente la hace una firma especializada; nosotros corregimos lo que encuentre.
+- **¿Pueden remediar los hallazgos de una auditoría externa?** Sí. Recibimos los hallazgos que entregue una firma de seguridad y los remediamos en el código y en la arquitectura.
+- **¿Pueden ayudarme a responder el cuestionario de seguridad de un proveedor?** En lo técnico, sí. Entregamos controles técnicos documentados (cifrado, aislamiento en VPC, trazabilidad de accesos, análisis de código y dependencias en el pipeline) que sirven de base para responder los cuestionarios de proveedor de tu cliente o de tu área de compras.
+- **¿Dónde viven mis datos?** En tu propia nube privada (VPC), con cifrado en reposo y en tránsito y trazabilidad de accesos.
+- **¿Puedo cambiar de proveedor de nube o de modelo de IA más adelante?** Sí. Diseñamos arquitecturas desacopladas sobre protocolos abiertos como MCP, sin vendor lock-in: si sale un nuevo modelo o cambias de proveedor, el sistema conmuta por configuración sin rehacer la plataforma. El código y los datos residen en tu nube privada.
+- **¿Cómo se protegen los datos que usa un agente de IA?** Con guardrails y DLP para IA, blindaje de prompts y de los datos del RAG, aislamiento en tu VPC y cifrado en reposo y en tránsito.
+
+### Consulting (Digital Consulting)
+https://bluepixel.ai/capacidades/digital-consulting
+
+Antes de comprometer capital en desarrollo, cuantificamos el costo de no actuar, priorizamos el backlog por impacto financiero y entregamos un business case con ROI proyectado.
+
+**¿Qué es el costo de inacción?** El costo de inacción es lo que una empresa pierde cada mes por no resolver un problema: horas en tareas manuales, errores y oportunidades que no se cierran. Calcularlo antes de invertir permite comparar el costo de actuar contra el de esperar.
+
+Lo que resuelve:
+- Se aprueba presupuesto para construir sin saber cuánto cuesta no hacerlo. → Cuantificamos el costo de inacción antes de invertir.
+- El backlog se ordena según quién lo pide con más fuerza. → Backlog priorizado por impacto financiero.
+- El piloto de IA que nadie puede defender ante el consejo se queda en el limbo. → Un business case con ROI y un roadmap trimestral alineado con los objetivos financieros.
+
+Qué recibes:
+- Diagnóstico de fricción operativa IMPATH™: Dónde se pierden tiempo y dinero en la operación.
+- Arquitectura técnica recomendada: Qué construir y sobre qué, antes de escribir código.
+- Backlog priorizado por impacto financiero: Qué va primero, según su impacto financiero.
+- Business case con ROI proyectado y costo de inacción: El retorno proyectado y lo que cuesta esperar.
+
+Preguntas:
+- **¿Recomiendan software de terceros o solo desarrollo a la medida?** Lo que más convenga al negocio. Si una licencia que ya existe resuelve el problema mejor y más barato que construir, eso recomendamos.
+- **¿Es obligatorio empezar por la consultoría?** No. Los cuatro servicios son formas independientes de trabajar: puedes entrar directamente por el que corresponda al momento de tu empresa.
+
+## Casos de estudio
+
+### Retail de electrónica (Retail y e-commerce)
+https://bluepixel.ai/casos-de-estudio/ecommerce-movil-retail
+
+Checkout a pantalla completa, fichas con datos clave y categorías ordenadas.
+
+Objetivo: Diseñar y desarrollar una app móvil intuitiva y bien estructurada para vender productos tecnológicos, que mejorara la usabilidad y la navegación, apoyara las campañas de temporada y aumentara las conversiones.
+Desafío: Un catálogo grande que en móvil debía ganar claridad, velocidad y desempeño comercial.
+Enfoque: Análisis de requerimientos; Arquitectura, sitemap y flujos de tareas; Descubrimiento de UI y diseño visual; Desarrollo y control de calidad (QA).
+Solución: La compra móvil, rediseñada de punta a punta: análisis de requerimientos, arquitectura y flujos, diseño de UI, desarrollo y QA.
+Impacto: Mejor descubrimiento de productos; Menos fricción en el checkout; Más visibilidad de las campañas promocionales.
+Alcance (hechos del proyecto): 5 necesidades del reto atendidas; 4 frentes rediseñados: descubrimiento, producto, compra y promociones; 4 etapas, del análisis de requerimientos al QA.
+
+### Marketplace de palcos y boletos (Entretenimiento y eventos · marketplace)
+https://bluepixel.ai/casos-de-estudio/marketplace-palcos-boletos
+
+Elegir palco sobre el mapa del recinto, con el evento siempre a la vista.
+
+Objetivo: Diseñar una plataforma intuitiva y confiable para rentar palcos y lugares premium y comprar boletos de forma segura, con una reserva que equilibre confianza, rapidez y claridad para compradores y dueños.
+Desafío: Un mismo producto para dos audiencias: quien busca boletos y palcos premium, y el dueño que quiere rentar el suyo de forma segura.
+Enfoque: Análisis de requerimientos; Investigación y extracción de insights; Exploración y diseño de interfaz (UI); Desarrollo y control de calidad (QA).
+Solución: Un rediseño web en cuatro partes: búsqueda de eventos, selección en el recinto, compra y la experiencia del dueño que renta.
+Impacto: Descubrimiento de eventos más rápido, con búsqueda integrada y filtros; Más confianza, con resúmenes de compra transparentes y la garantía a la vista.
+Alcance (hechos del proyecto): 2 audiencias atendidas: quien compra y quien renta su palco; 3 flujos principales rediseñados; 4 fases del proceso completadas.
+
+### Aerolínea latinoamericana (Viajes y lealtad)
+https://bluepixel.ai/casos-de-estudio/plataforma-lealtad-viajes
+
+Un solo inicio de sesión, millas a la vista y beneficios en tarjetas.
+
+Objetivo: Rediseñar la sección del programa de lealtad para mejorar la usabilidad, modernizar la interfaz y optimizar el inicio de sesión y el registro, de modo que gestionar millas, beneficios y cuenta fuera más claro.
+Desafío: Fricción en los recorridos clave de la plataforma de lealtad, del inicio de sesión a la consulta de beneficios.
+Enfoque: Análisis de requerimientos; Investigación y extracción de insights; Reestructuración de la arquitectura de información; Wireframing; Descubrimiento de UI y diseño visual.
+Solución: Acceso en una sola pantalla, con la información a un lado e imágenes de contexto al otro; una cuenta centrada en las millas; beneficios en tarjetas visuales.
+Impacto: Una plataforma de lealtad más intuitiva y accesible; Navegación y jerarquía de contenido más claras; Inicio de sesión y gestión de cuenta más rápidos.
+Alcance (hechos del proyecto): 1 pantalla para iniciar sesión y registrarse; 3 frentes rediseñados: acceso, cuenta y beneficios; 4 fricciones del recorrido resueltas.
+
+### Multinacional de alimentos (Alimentos y bebidas · analítica)
+https://bluepixel.ai/casos-de-estudio/analitica-multinacional
+
+De dashboards de Power BI sin criterio común a un sistema de diseño para analítica.
+
+Objetivo: Una de las empresas de alimentos más grandes del mundo tenía múltiples dashboards de Power BI usados por distintos departamentos y regiones. Los datos estaban ahí; el reto era hacerlos claros, accionables y consistentes.
+Desafío: Dashboards correctos pero difíciles de leer, que había que escalar a varios países y unidades de negocio para facilitar las decisiones ejecutivas.
+Enfoque: Entrevistas con usuarios ejecutivos y operativos; Identificación de las métricas verdaderamente estratégicas; Diseño centrado en la claridad y la toma de decisiones; Construcción de un sistema reutilizable; Soporte continuo para nuevas iniciativas digitales.
+Solución: Un sistema de diseño para analítica, con jerarquía visual, componentes estandarizados y lineamientos que los equipos internos pueden replicar.
+Impacto: Dashboards más claros y accionables; Adopción global del sistema de diseño; Más coherencia entre regiones; Colaboración extendida a varios departamentos.
+Alcance (hechos del proyecto): 1 sistema de diseño para analítica, replicable por los equipos internos; 5 frentes de la solución, del rediseño de dashboards a las guías; Power BI plataforma de los dashboards.
+
+## Preguntas frecuentes
+
+### Servicios y plazos
+
+**¿Qué servicios ofrece BluePixel?**
+BluePixel ofrece cuatro formas independientes de trabajar: Consultoría Digital, Agentes & Automatización, Plataformas Digitales y Evolución Digital. No son etapas de un ciclo: cada empresa entra por la que corresponde a su momento.
+Detalle: https://bluepixel.ai/servicios
+
+**¿Cuánto tarda cada servicio de BluePixel?**
+Consultoría Digital y Agentes & Automatización toman de 2 a 4 semanas; Plataformas Digitales llega a producción en 2 a 4 meses; Evolución Digital es un roadmap vivo de 6 o 12 meses. El plazo exacto depende del alcance que se defina al inicio.
+Detalle: https://bluepixel.ai/servicios
+
+**¿Puedo contratar directamente el desarrollo de una plataforma?**
+Sí: Plataformas Digitales se contrata por sí sola, sin pasar antes por la consultoría. Incluye estrategia de producto, prototipo validado con usuarios reales, desarrollo cloud-native y despliegue en producción.
+Detalle: https://bluepixel.ai/servicios/plataformas-digitales
+
+**¿En qué se diferencia BluePixel de una fábrica de software?**
+BluePixel asume la responsabilidad técnica y de negocio del producto en lugar de facturar horas: valida antes de construir, diseña para que la gente lo adopte y entrega arquitectura desacoplada sin dependencia de un proveedor. Es la garantía FutureProof.
+Detalle: https://bluepixel.ai/futureproof
+
+### Agentes de IA
+
+**¿Qué puede hacer un agente de IA en una empresa?**
+Un agente de IA ejecuta tareas de principio a fin sobre los sistemas de la empresa: consulta el ERP o el CRM, decide los pasos, completa la tarea y cita la fuente de lo que responde. Trabaja con supervisión y límites definidos.
+Detalle: https://bluepixel.ai/capacidades/agentic-ai-automation
+
+**¿Con qué sistemas se conectan los agentes de BluePixel?**
+Los agentes de BluePixel se conectan a los sistemas que la empresa ya usa, como SAP, Salesforce, ERPs y APIs bancarias o logísticas, mediante conectores determinísticos sobre el protocolo abierto MCP. No hace falta reemplazar nada.
+Detalle: https://bluepixel.ai/servicios/agentes-automatizacion
+
+**¿Cómo se evita que un agente de IA invente respuestas?**
+Con RAG privado sobre los documentos de la empresa: el agente responde solo cuando encuentra sustento en sus fuentes, cita de dónde sale cada respuesta y se abstiene y escala a una persona cuando no lo encuentra.
+Detalle: https://bluepixel.ai/capacidades/agentic-ai-automation#demostracion
+
+**¿Qué diferencia hay entre un copiloto y un agente de IA?**
+Un copiloto sugiere y una persona decide; un agente ejecuta la tarea por sí mismo dentro de límites y con supervisión definidos. Muchas empresas empiezan con copilotos y pasan a agentes en los flujos más repetitivos.
+Detalle: https://bluepixel.ai/capacidades/agentic-ai-automation
+
+### Seguridad y datos
+
+**¿BluePixel se queda con los datos o el código de mi empresa?**
+No: el código y los datos residen en la nube privada (VPC) de tu empresa, no en la de BluePixel. La arquitectura usa protocolos abiertos, así que un modelo o proveedor nuevo se cambia por configuración.
+Detalle: https://bluepixel.ai/capacidades/security-reliability#soberania
+
+**¿Cómo se protege el software que construye BluePixel?**
+La seguridad se integra desde el primer sprint: arquitectura Zero-Trust, hardening OWASP Top 10 en cada release, análisis de código y escaneo de dependencias en el pipeline, y cifrado en reposo y en tránsito. BluePixel cuenta con certificación vigente de CyberVadis.
+Detalle: https://bluepixel.ai/capacidades/security-reliability
+
+**¿BluePixel hace auditorías de seguridad o de cumplimiento?**
+No: la auditoría independiente la hace una firma especializada, y BluePixel corrige en código y arquitectura lo que esa firma encuentre. También entrega los controles técnicos documentados que piden los cuestionarios de seguridad de proveedores.
+Detalle: https://bluepixel.ai/capacidades/security-reliability
+
+**¿Cómo maneja BluePixel los datos personales y el consentimiento?**
+Con controles técnicos documentados, incluidos los que exige la LFPDPPP, y con la medición apagada hasta que el usuario la acepta. Este mismo sitio arranca con las señales de medición y publicidad denegadas.
+Detalle: https://bluepixel.ai/capacidades/data-analytics#demostracion
+
+### Proceso y contratación
+
+**¿Cómo empieza un proyecto con BluePixel?**
+Un proyecto con BluePixel empieza con una conversación: agendas una cita o escribes por WhatsApp, y una persona del equipo revisa tu caso contigo. De ahí sale qué servicio conviene y con qué alcance.
+Detalle: https://bluepixel.ai/contacto
+
+**¿Quién trabaja en un proyecto de BluePixel?**
+Un equipo de roles senior según el servicio: Tech Lead, AI Engineer, Senior Full Stack y especialista en UX y conversión. En Evolución Digital, ese equipo trabaja como squad dedicado.
+Detalle: https://bluepixel.ai/nosotros
+
+**¿BluePixel trabaja con empresas fuera de México?**
+Sí: BluePixel trabaja con empresas de México y Latinoamérica, en español y en inglés. El equipo opera desde México.
+Detalle: https://bluepixel.ai/casos-de-estudio
+
+**¿Dónde puedo ver proyectos que ha hecho BluePixel?**
+En los casos de estudio, cada uno con su reto, su método, el flujo antes y después y las capturas del resultado. Los casos se nombran por sector.
+Detalle: https://bluepixel.ai/casos-de-estudio
+
+### Costos e inversión
+
+**¿Cuánto cuesta un proyecto con BluePixel?**
+El costo de un proyecto con BluePixel depende de su alcance y se define después de entender el problema. Por eso la Consultoría Digital entrega un business case con el ROI proyectado antes de invertir en desarrollo.
+Detalle: https://bluepixel.ai/servicios/consultoria-digital
+
+**¿Cómo sé si me conviene invertir en automatizar un proceso?**
+Calculando el costo de no hacerlo: cuánto cuesta cada mes la tarea manual que se quiere automatizar. La calculadora de costo de inacción lo estima con tus propios supuestos y la fórmula a la vista.
+Detalle: https://bluepixel.ai/capacidades/digital-consulting#demostracion
+
+**¿Se puede saber cuánto costará operar un agente de IA antes de construirlo?**
+Sí: antes de construir se calculan los costos de inferencia y de hosting, y se valida que el caso sea viable. Es uno de los principios FutureProof: certeza técnica y financiera antes de escribir código.
+Detalle: https://bluepixel.ai/futureproof#principios
+
+
+# BluePixel: full text (English)
+
+## Services: four independent ways to work together
+
+### 01 · Digital Consulting
+https://bluepixel.ai/en/services/digital-consulting
+
+To provide technical, financial and strategic certainty before committing capital to development.
+Timeline: 2 to 4 weeks.
+Deliverables: IMPATH™ operational friction diagnostic; Recommended technical architecture; Backlog prioritized by financial impact; Business case with projected ROI; Cost of inaction calculation.
+
+### 02 · Agents & Automation
+https://bluepixel.ai/en/services/agents-automation
+
+To put agentic workflows and deterministic integrations into production on the client's existing technology stack.
+Timeline: 2 to 4 weeks.
+Deliverables: Autonomous AI agents (Agentic Automation); Private RAG over real corporate data, designed to abstain when there is no supporting evidence; Deterministic connectors via MCP (SAP, Salesforce, ERPs, banking and logistics APIs); Private cloud deployment.
+
+### 03 · Digital Platforms
+https://bluepixel.ai/en/services/digital-platforms
+
+To design, validate and build scalable web and mobile platforms or corporate MVPs from scratch.
+Timeline: 2 to 4 months.
+Deliverables: Product Strategy (PS), prototyping and validation with real users; World-class UI design; Cloud-Native Full Stack development with decoupled architecture; Automated testing; Production deployment with SLA 99.9%.
+
+### 04 · Digital Evolution
+https://bluepixel.ai/en/services/digital-evolution
+
+Continuous technology support to optimize, scale and evolve existing digital assets.
+Timeline: Living roadmap of 6 or 12 months.
+Deliverables: Dedicated multidisciplinary squad (Tech Lead, AI Engineer, Senior Full Stack, UX/CRO Specialist); UX Health Score monitoring; Systematic technical debt reduction; Conversion rate optimization (CRO); Support with enterprise SLA.
+
+## Capabilities
+
+### UX/UI & Product Strategy
+https://bluepixel.ai/en/capabilities/ux-ui-product-strategy
+
+We study how your users actually behave, test the prototype with real users and deliver a code-ready Design System, using the IMPATH™ methodology.
+
+**What is a Design System?** A Design System is the set of components, rules and design tokens shared by design and engineering: a button is defined once and used the same way across the whole product. It cuts rework and keeps the interface consistent as the product grows.
+
+What it solves:
+- Design is driven by opinion and users always drop off at the same step. → We study real behavior and map friction in the journey before designing.
+- The prototype is approved in a meeting and fails with the first user. → We test it with real users before it goes to development.
+- Every new screen looks different and development rebuilds it by hand. → A Design System with tokens that engineering uses directly in code.
+
+What you receive:
+- User journey friction map: Where and why users get stuck, step by step.
+- Validated interactive prototype: Tested with real users before any code is written.
+- Design System with tokens ready to be consumed in code: Documented components and tokens that engineering uses as is.
+- Backlog of improvements prioritized by impact: What to improve first, ranked by impact.
+
+Questions:
+- **What is the difference between UX/UI and Product Strategy?** UX/UI defines how the product looks and feels; Product Strategy defines which product to build, for whom and in what order. We work on them together so that the design answers to a measurable business goal.
+- **Do you validate the design with real users?** Yes. In the Digital Platforms service, the prototype is validated with real users before moving to development.
+- **Do you deliver a Design System?** Yes. We deliver documented components and tokens that the engineering team consumes directly.
+- **Do you also build the code?** Yes. Software Engineering builds what is designed, or we hand over the documented Design System and prototype for your team to build.
+- **Can you redesign a platform that is already in production?** Yes. We first map where users get stuck and redesign what has the most impact, in stages and without stopping operations.
+
+### Software Engineering
+https://bluepixel.ai/en/capabilities/software-engineering
+
+Cloud-native web and mobile platforms on React, Node.js, Python, TypeScript and PostgreSQL, with automated tests on every deployment.
+
+**What is a decoupled architecture?** A decoupled architecture splits the system into independent pieces that talk through stable interfaces, so one can be changed or scaled without breaking the others. It is what lets you switch cloud provider or AI model by configuration.
+
+**A software development company that is measured in production** Every platform ships with automated tests, a deployment pipeline and a decoupled architecture: swapping a vendor or a model is a configuration change, not a rebuild.
+
+What it solves:
+- Adding one feature breaks three parts of the system. → Decoupled architecture and automated tests on every deployment.
+- Shipping a release takes manual coordination and night-time windows. → A CI/CD pipeline that tests and deploys every change.
+- Switching vendor or model means rebuilding the platform. → Open protocols and zero vendor lock-in: the switch is configuration.
+
+What you receive:
+- Documented decoupled architecture: Diagrams and decisions so your team can understand and maintain the system.
+- Source code and data in the client’s private cloud: Everything lives in your cloud, not ours.
+- Automated testing and production deployment: Every change is tested before it reaches production.
+- Observability and SLA 99.9% in the Digital Platforms service: Errors and availability in plain sight from the first deployment.
+- Infrastructure as code: Your cloud is built from versioned code: repeatable and auditable.
+- APIs documented with OpenAPI: Clear contracts so other systems and teams can connect.
+
+Questions:
+- **What technologies do you use?** React, Node.js, Python, TypeScript and PostgreSQL, on serverless or container architectures on AWS, GCP or Azure, with automated CI/CD pipelines. The final choice depends on your current stack.
+- **Who owns the code?** Your company: the repositories and infrastructure live in your cloud account, with a decoupled architecture and open protocols. Ownership terms are set in each project’s contract.
+- **Do you work alongside our in-house team?** Yes. We can join your team as one more cell or deliver complete modules ready for production, with the code and documentation in your repositories.
+
+### Agentic AI & Automation
+https://bluepixel.ai/en/capabilities/agentic-ai-automation
+
+The agent queries your ERP or CRM via MCP, completes the task and cites its source. No need to replace your systems.
+
+**What is an AI agent?** A system that receives a goal, decides the steps and uses tools (querying a system, calculating, sending a request) to get it done, under defined supervision and limits. An assistant talks; an agent acts. For example: it resolves a customer request end to end, reconciles invoices against the ERP or validates the documents to onboard a supplier.
+
+**What is RAG?** RAG (retrieval-augmented generation) is the technique in which the model first searches for relevant passages in your own knowledge base and answers based on them, citing the source. It reduces made-up answers because the agent can abstain when it finds no supporting evidence.
+
+**How is it different from RPA?** RPA automates fixed, predictable steps; an agent handles exceptions and natural language. In real projects they are often combined: RPA for the repetitive and agents for what requires judgment.
+
+What it solves:
+- Your team copies data by hand between the ERP, the CRM and email. → An agent queries your systems via MCP and carries out the task.
+- A generic assistant confidently answers with something that is not in your documents. → Private RAG that cites its source and abstains when there is no support.
+- Connecting AI seems to require replacing your systems. → Connectors on top of what you already have: SAP, Salesforce, ERPs and APIs.
+
+What you receive:
+- Agent in production on your current stack: Running on your current systems, without replacing them.
+- Knowledge base with citations and abstention when there is no supporting evidence: Every answer says which document it came from.
+- Traceability of every agent execution: What the agent did, when, and with which data.
+- Vendor-agnostic architecture: the model is swapped through configuration: If a better model comes out, it is swapped by configuration.
+
+Questions:
+- **Is my data sent to a public model?** We design so that data and code reside in your private cloud, and the model is configurable to avoid dependence on a single vendor.
+- **Do you replace my ERP or my CRM?** No. We connect the agents to your current systems (SAP, Salesforce, ERPs, APIs) through the MCP protocol, without replacing them.
+- **Which AI models do you work with?** Whichever solves your case best. The architecture is model-agnostic: switching models or providers is configuration, not rebuilding the agent.
+
+### Data & Analytics
+https://bluepixel.ai/en/capabilities/data-analytics
+
+What your users do and which KPI moved, on one dashboard for leadership: product telemetry, data pipelines and executive dashboards.
+
+**What is product telemetry?** Product telemetry is the record of what users do inside a platform (what they open, where they pause, where they drop off), with event names defined in advance. It turns assumptions into evidence when deciding what to improve first.
+
+**What is predictive analytics?** Analytics has three steps: descriptive (what happened), diagnostic (why it happened) and predictive (what will happen). Predictive analytics uses historical and behavioral data to anticipate, for example, which customers are about to leave, and act before it happens.
+
+What it solves:
+- Leadership gets different numbers depending on who builds the report. → One event taxonomy, and every number traceable to its source.
+- You know how many users arrive, but not where they drop off. → Product telemetry that shows the real journey.
+- The report arrives late and the decision was already made without it. → Dashboards that update themselves, built around leadership KPIs.
+
+What you receive:
+- Measurement plan and event taxonomy: What is measured, under which name, and for which decision.
+- Executive dashboards: Leadership KPIs in a single view.
+- Continuous UX Health Score within Digital Evolution: The health of the experience, measured month by month.
+
+Questions:
+- **What analytics tools do you use?** Mixpanel for product telemetry, data pipelines and executive dashboards on the tool you already have, such as Power BI, Tableau or Looker.
+- **Does measurement respect user consent?** Yes. We design measurement to respect user consent and the LFPDPPP; on this site, measurement and advertising signals start out denied until the visitor decides.
+
+### Security & Reliability
+https://bluepixel.ai/en/capabilities/security-reliability
+
+Zero-Trust, OWASP Top 10 hardening in every release and a pipeline that blocks vulnerable dependencies. Encryption and isolation inside your VPC.
+
+**What is Zero-Trust architecture?** Zero-Trust is a security model in which no user, service or network is trusted by default: every access is verified and limited to the minimum needed. It reduces the possible damage if a credential or a component is exposed.
+
+What it solves:
+- Security is reviewed at the end, when fixing it costs more. → Zero-Trust and OWASP Top 10 hardening from the first sprint.
+- A vulnerable dependency reaches production without anyone noticing. → Code analysis and dependency scanning that block the pipeline.
+- A client’s security questionnaire stalls the deal. → Documented technical controls as the basis for answering it.
+
+What you receive:
+- Documented technical controls: Encryption, VPC isolation and access traceability, in writing.
+- Pipeline with code analysis and dependency scanning: Deployment stops if a known vulnerability shows up.
+- Remediation plan for third-party findings: We fix in code and architecture what an external firm finds.
+- Access matrix: Who can do what in each system, with the least privilege needed.
+
+Questions:
+- **What security credentials do you hold?** We hold a current CyberVadis certification and apply OWASP Top 10 best practices in every release.
+- **What exactly does the security capability cover?** The security of what we build: Zero-Trust architecture, OWASP Top 10 hardening in every release, code and dependency analysis in the pipeline, encryption and VPC isolation, and guardrails for AI. The independent audit is done by a specialized firm; we fix what it finds.
+- **Can you remediate the findings of an external audit?** Yes. We receive the findings delivered by a security firm and remediate them in the code and in the architecture.
+- **Can you help me answer a vendor's security questionnaire?** On the technical side, yes. We deliver documented technical controls (encryption, VPC isolation, access traceability, code and dependency analysis in the pipeline) that serve as a basis for answering the vendor questionnaires of your customer or your procurement team.
+- **Where does my data live?** In your own private cloud (VPC), with encryption at rest and in transit and access traceability.
+- **Can I change cloud provider or AI model later?** Yes. We design decoupled architectures on open protocols such as MCP, with no vendor lock-in: if a new model comes out or you change provider, the system switches through configuration without rebuilding the platform. The code and data reside in your private cloud.
+- **How is the data an AI agent uses protected?** With guardrails and DLP for AI, protection of prompts and RAG data, isolation in your VPC, and encryption at rest and in transit.
+
+### Digital Consulting
+https://bluepixel.ai/en/capabilities/digital-consulting
+
+Before committing capital to development, we quantify the cost of not acting, prioritize the backlog by financial impact and deliver a business case with projected ROI.
+
+**What is the cost of inaction?** The cost of inaction is what a company loses every month by not solving a problem: hours on manual tasks, errors and opportunities that never close. Calculating it before investing lets you compare the cost of acting with the cost of waiting.
+
+What it solves:
+- Budget gets approved to build without knowing what not doing it costs. → We quantify the cost of inaction before you invest.
+- The backlog is ordered by whoever pushes hardest. → A backlog prioritized by financial impact.
+- The AI pilot no one can defend before the board stays in limbo. → A business case with ROI and a quarterly roadmap aligned with financial goals.
+
+What you receive:
+- IMPATH™ operational friction diagnostic: Where time and money are lost in the operation.
+- Recommended technical architecture: What to build and on what, before writing code.
+- Backlog prioritized by financial impact: What goes first, by financial impact.
+- Business case with projected ROI and cost of inaction: The projected return and what waiting costs.
+
+Questions:
+- **Do you recommend third-party software or only custom development?** Whatever suits the business best. If an existing license solves the problem better and cheaper than building, that is what we recommend.
+- **Is it mandatory to start with consulting?** No. The four services are independent ways of working: you can enter directly through the one that fits where your company is today.
+
+## Case studies
+
+### Electronics retailer (Retail and e-commerce)
+https://bluepixel.ai/en/case-studies/mobile-ecommerce-retail
+
+Full-screen checkout, product pages with key data and well-organized categories.
+
+Goal: Design and build an intuitive, well-structured mobile app to sell tech products that improved usability and navigation, supported seasonal campaigns and increased conversions.
+Challenge: A large catalog that, on mobile, had to gain clarity, speed and commercial performance.
+Approach: Requirements analysis; Architecture, sitemap and task flows; UI discovery and visual design; Development and quality assurance (QA).
+Solution: Mobile shopping redesigned end to end: requirements analysis, architecture and flows, UI design, development and QA.
+Impact: Better product discovery; Less friction at checkout; More visibility for promotional campaigns.
+Scope (project facts): 5 needs from the brief addressed; 4 areas redesigned: discovery, product, purchase and promotions; 4 stages, from requirements analysis to QA.
+
+### Suite and ticket marketplace (Entertainment and events · marketplace)
+https://bluepixel.ai/en/case-studies/suite-ticket-marketplace
+
+Pick a suite on the venue map, with the event details always in view.
+
+Goal: Design an intuitive, trustworthy platform to rent premium suites and seats and buy tickets safely, with a booking flow that balances trust, speed and clarity for buyers and owners.
+Challenge: One product for two audiences: people looking for tickets and premium suites, and owners who want to rent theirs out securely.
+Approach: Requirements analysis; Research and insight extraction; Interface (UI) exploration and design; Development and quality assurance (QA).
+Solution: A web redesign in four parts: event search, seat selection on the venue map, checkout and the experience for owners who rent.
+Impact: Faster event discovery, with integrated search and filters; More trust, with transparent purchase summaries and the guarantee in view.
+Scope (project facts): 2 audiences served: buyers and suite owners who rent; 3 main flows redesigned; 4 process phases completed.
+
+### Latin American airline (Travel and loyalty)
+https://bluepixel.ai/en/case-studies/travel-loyalty-platform
+
+One sign-in, miles in plain sight and benefits on visual cards.
+
+Goal: Redesign the loyalty program section to improve usability, modernize the interface and streamline sign-in and registration, so managing miles, benefits and the account would be clearer.
+Challenge: Friction across the key journeys of the loyalty platform, from sign-in to checking benefits.
+Approach: Requirements analysis; Research and insight extraction; Information architecture restructuring; Wireframing; UI discovery and visual design.
+Solution: Access on a single screen, with information on one side and context imagery on the other; an account built around miles; benefits on visual cards.
+Impact: A more intuitive and accessible loyalty platform; Clearer navigation and content hierarchy; Faster sign-in and account management.
+Scope (project facts): 1 screen to sign in and register; 3 areas redesigned: access, account and benefits; 4 journey friction points resolved.
+
+### Multinational food company (Food and beverage · analytics)
+https://bluepixel.ai/en/case-studies/multinational-analytics
+
+From Power BI dashboards with no shared criteria to a design system for analytics.
+
+Goal: One of the largest food companies in the world had multiple Power BI dashboards used by different departments and regions. The data was there; the challenge was making it clear, actionable and consistent.
+Challenge: Dashboards that were correct but hard to read, and had to scale to several countries and business units to support executive decisions.
+Approach: Interviews with executive and operational users; Identifying the truly strategic metrics; Design focused on clarity and decision-making; Building a reusable system; Ongoing support for new digital initiatives.
+Solution: A design system for analytics, with visual hierarchy, standardized components and guidelines internal teams can replicate.
+Impact: Clearer, more actionable dashboards; Global adoption of the design system; More consistency across regions; Collaboration extended to several departments.
+Scope (project facts): 1 design system for analytics, replicable by internal teams; 5 solution areas, from dashboard redesign to guidelines; Power BI dashboard platform.
+
+## Frequently asked questions
+
+### Services and timelines
+
+**What services does BluePixel offer?**
+BluePixel offers four independent ways to work together: Digital Consulting, Agents & Automation, Digital Platforms and Digital Evolution. They are not stages of a cycle: each company starts with the one that fits where it is.
+Details: https://bluepixel.ai/en/services
+
+**How long does each BluePixel service take?**
+Digital Consulting and Agents & Automation take 2 to 4 weeks; Digital Platforms reaches production in 2 to 4 months; Digital Evolution is a living roadmap of 6 or 12 months. The exact timeline depends on the scope defined at the start.
+Details: https://bluepixel.ai/en/services
+
+**Can I hire platform development directly?**
+Yes: Digital Platforms can be hired on its own, without consulting first. It includes product strategy, a prototype validated with real users, cloud-native development and production deployment.
+Details: https://bluepixel.ai/en/services/digital-platforms
+
+**How is BluePixel different from a software body shop?**
+BluePixel takes technical and business responsibility for the product instead of billing hours: it validates before building, designs for adoption and delivers decoupled architecture with no vendor lock-in. That is the FutureProof guarantee.
+Details: https://bluepixel.ai/en/futureproof
+
+### AI agents
+
+**What can an AI agent do in a company?**
+An AI agent carries out tasks end to end on the company’s systems: it queries the ERP or the CRM, decides the steps, completes the task and cites the source of what it answers. It works with defined supervision and limits.
+Details: https://bluepixel.ai/en/capabilities/agentic-ai-automation
+
+**Which systems do BluePixel agents connect to?**
+BluePixel agents connect to the systems the company already uses, such as SAP, Salesforce, ERPs and banking or logistics APIs, through deterministic connectors over the open MCP protocol. Nothing needs to be replaced.
+Details: https://bluepixel.ai/en/services/agents-automation
+
+**How do you keep an AI agent from making up answers?**
+With private RAG over the company’s documents: the agent answers only when it finds support in its sources, cites where each answer comes from, and abstains and escalates to a person when it does not.
+Details: https://bluepixel.ai/en/capabilities/agentic-ai-automation#demostracion
+
+**What is the difference between a copilot and an AI agent?**
+A copilot suggests and a person decides; an agent carries out the task itself within defined limits and supervision. Many companies start with copilots and move to agents in their most repetitive flows.
+Details: https://bluepixel.ai/en/capabilities/agentic-ai-automation
+
+### Security and data
+
+**Does BluePixel keep my company’s data or code?**
+No: the code and the data reside in your company’s private cloud (VPC), not in BluePixel’s. The architecture uses open protocols, so a new model or vendor is swapped by configuration.
+Details: https://bluepixel.ai/en/capabilities/security-reliability#soberania
+
+**How is the software BluePixel builds protected?**
+Security is built in from the first sprint: Zero-Trust architecture, OWASP Top 10 hardening on every release, code analysis and dependency scanning in the pipeline, and encryption at rest and in transit. BluePixel holds a current CyberVadis certification.
+Details: https://bluepixel.ai/en/capabilities/security-reliability
+
+**Does BluePixel run security or compliance audits?**
+No: the independent audit is done by a specialized firm, and BluePixel fixes in code and architecture whatever that firm finds. It also delivers the documented technical controls that vendor security questionnaires ask for.
+Details: https://bluepixel.ai/en/capabilities/security-reliability
+
+**How does BluePixel handle personal data and consent?**
+With documented technical controls, including those required by Mexico’s LFPDPPP, and with measurement turned off until the user accepts it. This very site starts with measurement and advertising signals denied.
+Details: https://bluepixel.ai/en/capabilities/data-analytics#demostracion
+
+### Process and hiring
+
+**How does a project with BluePixel start?**
+A project with BluePixel starts with a conversation: you book a meeting or message us on WhatsApp, and a person on the team reviews your case with you. That defines which service fits and with what scope.
+Details: https://bluepixel.ai/en/contact
+
+**Who works on a BluePixel project?**
+A team of senior roles depending on the service: Tech Lead, AI Engineer, Senior Full Stack and a UX and conversion specialist. In Digital Evolution, that team works as a dedicated squad.
+Details: https://bluepixel.ai/en/about-us
+
+**Does BluePixel work with companies outside Mexico?**
+Yes: BluePixel works with companies in Mexico and Latin America, in Spanish and in English. The team operates from Mexico.
+Details: https://bluepixel.ai/en/case-studies
+
+**Where can I see projects BluePixel has done?**
+In the case studies, each with its challenge, its method, the before-and-after flow and screenshots of the result. Cases are named by industry.
+Details: https://bluepixel.ai/en/case-studies
+
+### Costs and investment
+
+**How much does a project with BluePixel cost?**
+The cost of a BluePixel project depends on its scope and is defined after understanding the problem. That is why Digital Consulting delivers a business case with projected ROI before investing in development.
+Details: https://bluepixel.ai/en/services/digital-consulting
+
+**How do I know whether automating a process is worth it?**
+By calculating the cost of not doing it: what the manual task you want to automate costs every month. The cost-of-inaction calculator estimates it with your own assumptions and the formula in view.
+Details: https://bluepixel.ai/en/capabilities/digital-consulting#demostracion
+
+**Can I know what running an AI agent will cost before building it?**
+Yes: inference and hosting costs are calculated before building, and the case is validated as viable. It is one of the FutureProof principles: technical and financial certainty before writing code.
+Details: https://bluepixel.ai/en/futureproof#principios
+

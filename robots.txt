@@ -1,0 +1,3 @@
+# Sitio en preproducción: no indexable hasta que dirección decida el Camino de dominio.
+User-agent: *
+Disallow: /
