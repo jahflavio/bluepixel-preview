@@ -32,7 +32,7 @@ Entregables: Squad multidisciplinario dedicado (Tech Lead, AI Engineer, Senior F
 
 ## Capacidades
 
-### UX/UI & Product Strategy
+### UX/UI y Estrategia de Producto
 https://bluepixel.ai/capacidades/ux-ui-product-strategy
 
 Investigamos la conducta real del usuario, probamos el prototipo con usuarios reales y entregamos un Design System listo para código, con la metodología IMPATH™.
@@ -51,13 +51,13 @@ Qué recibes:
 - Backlog de mejoras priorizado por impacto: Qué mejorar primero, ordenado por impacto.
 
 Preguntas:
-- **¿Cuál es la diferencia entre UX/UI y Product Strategy?** UX/UI define cómo se ve y se siente el producto; Product Strategy define qué producto construir, para quién y en qué orden. Las trabajamos juntas para que el diseño responda a un objetivo de negocio medible.
+- **¿Cuál es la diferencia entre UX/UI y estrategia de producto?** UX/UI define cómo se ve y se siente el producto; la estrategia de producto define qué producto construir, para quién y en qué orden. Las trabajamos juntas para que el diseño responda a un objetivo de negocio medible.
 - **¿Validan el diseño con usuarios reales?** Sí. En la modalidad Plataformas Digitales el prototipo se valida con usuarios reales antes de pasar a desarrollo.
 - **¿Entregan un Design System?** Sí. Entregamos componentes y tokens documentados que el equipo de ingeniería consume directamente.
-- **¿También desarrollan el código?** Sí. Software Engineering construye lo que se diseña, o entregamos el Design System y el prototipo documentados para que los programe tu equipo.
+- **¿También desarrollan el código?** Sí. La capacidad de Desarrollo de Software construye lo que se diseña, o entregamos el Design System y el prototipo documentados para que los programe tu equipo.
 - **¿Pueden rediseñar una plataforma que ya está en producción?** Sí. Primero mapeamos dónde se atora el usuario y rediseñamos lo que más impacto tiene, por partes y sin detener la operación.
 
-### Software Engineering
+### Desarrollo de Software
 https://bluepixel.ai/capacidades/software-engineering
 
 Plataformas web y móviles cloud-native sobre React, Node.js, Python, TypeScript y PostgreSQL, con pruebas automatizadas en cada despliegue.
@@ -84,7 +84,7 @@ Preguntas:
 - **¿De quién es el código?** De tu empresa: los repositorios y la infraestructura viven en tu cuenta de nube, con arquitectura desacoplada y protocolos abiertos. Las condiciones de propiedad se fijan en el contrato de cada proyecto.
 - **¿Trabajan junto a nuestro equipo interno?** Sí. Podemos sumarnos a tu equipo como una célula más o entregar módulos completos listos para producción, con el código y la documentación en tus repositorios.
 
-### IA & Automatización (Agentic Automation)
+### Agentes de IA y Automatización
 https://bluepixel.ai/capacidades/agentic-ai-automation
 
 El agente consulta tu ERP o tu CRM vía MCP, ejecuta la tarea y cita su fuente. Sin reemplazar tus sistemas.
@@ -111,7 +111,7 @@ Preguntas:
 - **¿Reemplazan mi ERP o mi CRM?** No. Conectamos los agentes a tus sistemas actuales (SAP, Salesforce, ERPs, APIs) mediante el protocolo MCP, sin reemplazarlos.
 - **¿Con qué modelos de IA trabajan?** Con el que mejor resuelva tu caso. La arquitectura es agnóstica: cambiar de modelo o de proveedor es configuración, no rehacer el agente.
 
-### Data & Analytics
+### Datos y Analítica
 https://bluepixel.ai/capacidades/data-analytics
 
 Qué hace tu usuario y qué KPI se movió, en un tablero para dirección: telemetría de producto, pipelines de datos y dashboards ejecutivos.
@@ -134,7 +134,7 @@ Preguntas:
 - **¿Qué herramientas de analítica usan?** Mixpanel para telemetría de producto, pipelines de datos y tableros ejecutivos sobre la herramienta que ya tengas, como Power BI, Tableau o Looker.
 - **¿La medición respeta el consentimiento del usuario?** Sí. Diseñamos la medición para respetar el consentimiento del usuario y la LFPDPPP; en este sitio, las señales de medición y publicidad nacen denegadas hasta que el visitante decide.
 
-### Security & Reliability
+### Seguridad y Confiabilidad
 https://bluepixel.ai/capacidades/security-reliability
 
 Zero-Trust, hardening OWASP Top 10 en cada release y un pipeline que se bloquea ante dependencias vulnerables. Cifrado y aislamiento dentro de tu VPC.
@@ -161,7 +161,7 @@ Preguntas:
 - **¿Puedo cambiar de proveedor de nube o de modelo de IA más adelante?** Sí. Diseñamos arquitecturas desacopladas sobre protocolos abiertos como MCP, sin vendor lock-in: si sale un nuevo modelo o cambias de proveedor, el sistema conmuta por configuración sin rehacer la plataforma. El código y los datos residen en tu nube privada.
 - **¿Cómo se protegen los datos que usa un agente de IA?** Con guardrails y DLP para IA, blindaje de prompts y de los datos del RAG, aislamiento en tu VPC y cifrado en reposo y en tránsito.
 
-### Consulting (Digital Consulting)
+### Estrategia y Consultoría
 https://bluepixel.ai/capacidades/digital-consulting
 
 Antes de comprometer capital en desarrollo, cuantificamos el costo de no actuar, priorizamos el backlog por impacto financiero y entregamos un business case con ROI proyectado.

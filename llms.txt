@@ -13,12 +13,12 @@ Idioma: español (México), con versión completa en inglés en https://bluepixe
 
 ## Seis capacidades
 
-- [UX/UI & Product Strategy](https://bluepixel.ai/capacidades/ux-ui-product-strategy): Diseño UX/UI y desarrollo web con investigación de usuarios, psicología conductual y metodología IMPATH™. Interfaces y Design Systems que tus usuarios adoptan.
-- [Software Engineering](https://bluepixel.ai/capacidades/software-engineering): Desarrollo de software empresarial cloud-native: plataformas web y móviles, APIs, microservicios y CI/CD sobre React, Node.js, Python y PostgreSQL.
-- [IA & Automatización (Agentic Automation)](https://bluepixel.ai/capacidades/agentic-ai-automation): Agentes de IA para empresas en México: RAG privado sobre tus datos, conectores MCP con tu ERP o CRM y despliegue en tu nube privada. Pruébalo aquí.
-- [Data & Analytics](https://bluepixel.ai/capacidades/data-analytics): Telemetría de producto con Mixpanel, pipelines de datos y dashboards ejecutivos en tiempo real para decidir con evidencia de comportamiento.
-- [Security & Reliability](https://bluepixel.ai/capacidades/security-reliability): Seguridad como propiedad del software: arquitectura Zero-Trust, hardening OWASP Top 10, SAST, cifrado y aislamiento en tu VPC. Certificación CyberVadis vigente.
-- [Consulting (Digital Consulting)](https://bluepixel.ai/capacidades/digital-consulting): Costo de inacción, backlog priorizado por ROI y business case antes de invertir. Consultoría digital con roadmap ejecutivo y FutureProof™ Framework.
+- [UX/UI y Estrategia de Producto](https://bluepixel.ai/capacidades/ux-ui-product-strategy): Diseño UX/UI y desarrollo web con investigación de usuarios, psicología conductual y metodología IMPATH™. Interfaces y Design Systems que tus usuarios adoptan.
+- [Desarrollo de Software](https://bluepixel.ai/capacidades/software-engineering): Desarrollo de software empresarial cloud-native: plataformas web y móviles, APIs, microservicios y CI/CD sobre React, Node.js, Python y PostgreSQL.
+- [Agentes de IA y Automatización](https://bluepixel.ai/capacidades/agentic-ai-automation): Agentes de IA para empresas en México: RAG privado sobre tus datos, conectores MCP con tu ERP o CRM y despliegue en tu nube privada. Pruébalo aquí.
+- [Datos y Analítica](https://bluepixel.ai/capacidades/data-analytics): Telemetría de producto con Mixpanel, pipelines de datos y dashboards ejecutivos en tiempo real para decidir con evidencia de comportamiento.
+- [Seguridad y Confiabilidad](https://bluepixel.ai/capacidades/security-reliability): Seguridad como propiedad del software: arquitectura Zero-Trust, hardening OWASP Top 10, SAST, cifrado y aislamiento en tu VPC. Certificación CyberVadis vigente.
+- [Estrategia y Consultoría](https://bluepixel.ai/capacidades/digital-consulting): Costo de inacción, backlog priorizado por ROI y business case antes de invertir. Consultoría digital con roadmap ejecutivo y FutureProof™ Framework.
 
 ## Páginas de profundidad
 
@@ -50,6 +50,7 @@ Idioma: español (México), con versión completa en inglés en https://bluepixe
 
 - [Autoevaluación pública de este sitio](https://bluepixel.ai/autoevaluacion): puntaje, método y límites.
 - Las cifras de resultado de los casos de estudio se publican solo con su fuente y fecha de medición.
+- Legales: [Aviso de privacidad](https://bluepixel.ai/privacidad) · [Términos y condiciones](https://bluepixel.ai/terminos) · [Política del Sistema de Gestión de Seguridad de la Información](https://bluepixel.ai/politica-del-sgsi).
 
 ## Contacto
 
@@ -107,6 +108,7 @@ Language: English. Home: https://bluepixel.ai/en. The Spanish site (https://blue
 
 - [Public self-assessment of this site](https://bluepixel.ai/en/self-assessment): score, method and limits.
 - Case-study result figures are published only with their source and measurement date.
+- Legal: [Privacy notice](https://bluepixel.ai/en/privacy) · [Terms of service](https://bluepixel.ai/en/terms) · [Information Security Management System Policy](https://bluepixel.ai/en/information-security-management-system-policy).
 
 ## Contact
 
