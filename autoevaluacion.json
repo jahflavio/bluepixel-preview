@@ -1,7 +1,7 @@
 {
   "motor": "autoevaluacion-local v1",
-  "generadoEn": "2026-10-05T21:37:47.962Z",
-  "buildId": "42bfb2f6",
+  "generadoEn": "2026-10-05T22:02:21.054Z",
+  "buildId": "8d5a71d7",
   "indexable": false,
   "puntaje": 979,
   "maximo": 1000,
@@ -139,8 +139,8 @@
           "peso": 40,
           "resultado": 1,
           "nivel": "ok",
-          "detalle": "Promedio 14.1 KB · peor: / (14.1 KB).",
-          "detalle_en": "Average 14.1 KB · worst: / (14.1 KB)."
+          "detalle": "Promedio 17.6 KB · peor: / (17.6 KB).",
+          "detalle_en": "Average 17.6 KB · worst: / (17.6 KB)."
         },
         {
           "id": "html",
@@ -149,8 +149,8 @@
           "peso": 30,
           "resultado": 1,
           "nivel": "ok",
-          "detalle": "Promedio 7.8 KB · peor: /servicios/plataformas-digitales (10.6 KB).",
-          "detalle_en": "Average 7.8 KB · worst: /servicios/plataformas-digitales (10.6 KB)."
+          "detalle": "Promedio 7.8 KB · peor: /servicios/evolucion-digital (10.9 KB).",
+          "detalle_en": "Average 7.8 KB · worst: /servicios/evolucion-digital (10.9 KB)."
         },
         {
           "id": "sin-bloqueo",
@@ -427,462 +427,462 @@
       "ruta": "/",
       "titulo": "Agentes de IA, Software y UX para Empresas en México | BluePixel",
       "jsKB": 32.7,
-      "cssKB": 14.1,
+      "cssKB": 17.6,
       "htmlKB": 9.8
     },
     {
       "ruta": "/404",
       "titulo": "Página no encontrada | BluePixel",
       "jsKB": 31.4,
-      "cssKB": 14.1,
-      "htmlKB": 5.3
+      "cssKB": 17.6,
+      "htmlKB": 5.2
     },
     {
       "ruta": "/autoevaluacion",
       "titulo": "Autoevaluación Pública del Sitio: Puntaje y Método | BluePixel",
       "jsKB": 36.4,
-      "cssKB": 14.1,
+      "cssKB": 17.6,
       "htmlKB": 6.2
     },
     {
       "ruta": "/capacidades",
       "titulo": "Capacidades de Ingeniería, IA y UX | BluePixel",
       "jsKB": 32.7,
-      "cssKB": 14.1,
+      "cssKB": 17.6,
       "htmlKB": 7.4
     },
     {
       "ruta": "/capacidades/agentic-ai-automation",
       "titulo": "Agentes de IA para Empresas en México | BluePixel",
       "jsKB": 36,
-      "cssKB": 14.1,
-      "htmlKB": 8.4
+      "cssKB": 17.6,
+      "htmlKB": 8.3
     },
     {
       "ruta": "/capacidades/data-analytics",
       "titulo": "Analítica de Datos y Dashboards para Empresas | BluePixel",
       "jsKB": 34.3,
-      "cssKB": 14.1,
+      "cssKB": 17.6,
       "htmlKB": 8.2
     },
     {
       "ruta": "/capacidades/digital-consulting",
       "titulo": "Consultoría de IA y Transformación Digital | BluePixel",
       "jsKB": 34.3,
-      "cssKB": 14.1,
+      "cssKB": 17.6,
       "htmlKB": 8.1
     },
     {
       "ruta": "/capacidades/security-reliability",
       "titulo": "Software Seguro y Arquitectura Zero-Trust | BluePixel",
       "jsKB": 37.7,
-      "cssKB": 14.1,
+      "cssKB": 17.6,
       "htmlKB": 8.3
     },
     {
       "ruta": "/capacidades/software-engineering",
       "titulo": "Empresa de Desarrollo de Software a la Medida | BluePixel",
       "jsKB": 37.7,
-      "cssKB": 14.1,
+      "cssKB": 17.6,
       "htmlKB": 8.3
     },
     {
       "ruta": "/capacidades/software-engineering/aplicaciones-moviles",
       "titulo": "Desarrollo de Aplicaciones Móviles para Empresas | BluePixel",
       "jsKB": 35.2,
-      "cssKB": 14.1,
+      "cssKB": 17.6,
       "htmlKB": 8.5
     },
     {
       "ruta": "/capacidades/software-engineering/desarrollo-web",
       "titulo": "Desarrollo Web a la Medida para Empresas | BluePixel",
       "jsKB": 35.8,
-      "cssKB": 14.1,
+      "cssKB": 17.6,
       "htmlKB": 8.6
     },
     {
       "ruta": "/capacidades/ux-ui-product-strategy",
       "titulo": "Diseño UX/UI, Auditoría UX y Estrategia de Producto | BluePixel",
       "jsKB": 35.6,
-      "cssKB": 14.1,
+      "cssKB": 17.6,
       "htmlKB": 9
     },
     {
       "ruta": "/casos-de-estudio",
       "titulo": "Casos de Estudio: Compara el Antes y el Después | BluePixel",
       "jsKB": 32.7,
-      "cssKB": 14.1,
+      "cssKB": 17.6,
       "htmlKB": 7
     },
     {
       "ruta": "/casos-de-estudio/analitica-multinacional",
       "titulo": "Caso: Dashboards de Analítica en una Multinacional | BluePixel",
       "jsKB": 33.6,
-      "cssKB": 14.1,
+      "cssKB": 17.6,
       "htmlKB": 8.1
     },
     {
       "ruta": "/casos-de-estudio/ecommerce-movil-retail",
       "titulo": "Caso: Rediseño de E-commerce Móvil para Retail | BluePixel",
       "jsKB": 33.6,
-      "cssKB": 14.1,
+      "cssKB": 17.6,
       "htmlKB": 8.4
     },
     {
       "ruta": "/casos-de-estudio/marketplace-palcos-boletos",
       "titulo": "Caso: Plataforma de Reserva de Palcos y Boletos | BluePixel",
       "jsKB": 33.6,
-      "cssKB": 14.1,
+      "cssKB": 17.6,
       "htmlKB": 8.4
     },
     {
       "ruta": "/casos-de-estudio/plataforma-lealtad-viajes",
       "titulo": "Caso: Rediseño de una Plataforma de Lealtad de Viajes | BluePixel",
       "jsKB": 33.6,
-      "cssKB": 14.1,
+      "cssKB": 17.6,
       "htmlKB": 8.2
     },
     {
       "ruta": "/contacto",
       "titulo": "Contacto: Habla con Nuestro Equipo | BluePixel",
       "jsKB": 42.3,
-      "cssKB": 14.1,
+      "cssKB": 17.6,
       "htmlKB": 6.2
     },
     {
       "ruta": "/en",
       "titulo": "AI Agents, Software & UX for Enterprises | BluePixel",
       "jsKB": 32.7,
-      "cssKB": 14.1,
+      "cssKB": 17.6,
       "htmlKB": 9.6
     },
     {
       "ruta": "/en/about-us",
       "titulo": "About Us: Senior Engineering and FutureProof | BluePixel",
       "jsKB": 45.5,
-      "cssKB": 14.1,
+      "cssKB": 17.6,
       "htmlKB": 9.4
     },
     {
       "ruta": "/en/capabilities",
       "titulo": "Engineering, AI and UX Capabilities | BluePixel",
       "jsKB": 32.7,
-      "cssKB": 14.1,
+      "cssKB": 17.6,
       "htmlKB": 7.2
     },
     {
       "ruta": "/en/capabilities/agentic-ai-automation",
       "titulo": "AI Agents for Enterprises in Mexico | BluePixel",
       "jsKB": 36,
-      "cssKB": 14.1,
+      "cssKB": 17.6,
       "htmlKB": 8.2
     },
     {
       "ruta": "/en/capabilities/data-analytics",
       "titulo": "Data Analytics and Dashboards for Enterprises | BluePixel",
       "jsKB": 34.3,
-      "cssKB": 14.1,
+      "cssKB": 17.6,
       "htmlKB": 8
     },
     {
       "ruta": "/en/capabilities/digital-consulting",
       "titulo": "AI and Digital Transformation Consulting | BluePixel",
       "jsKB": 34.3,
-      "cssKB": 14.1,
+      "cssKB": 17.6,
       "htmlKB": 7.9
     },
     {
       "ruta": "/en/capabilities/security-reliability",
       "titulo": "Secure Software and Zero-Trust Architecture | BluePixel",
       "jsKB": 37.7,
-      "cssKB": 14.1,
+      "cssKB": 17.6,
       "htmlKB": 8.1
     },
     {
       "ruta": "/en/capabilities/software-engineering",
       "titulo": "Custom Software Development Company in Mexico | BluePixel",
       "jsKB": 37.7,
-      "cssKB": 14.1,
+      "cssKB": 17.6,
       "htmlKB": 8.1
     },
     {
       "ruta": "/en/capabilities/software-engineering/mobile-apps",
       "titulo": "Enterprise Mobile App Development | BluePixel",
       "jsKB": 35.2,
-      "cssKB": 14.1,
+      "cssKB": 17.6,
       "htmlKB": 8.3
     },
     {
       "ruta": "/en/capabilities/software-engineering/web-development",
       "titulo": "Custom Web Development for Enterprises | BluePixel",
       "jsKB": 35.8,
-      "cssKB": 14.1,
+      "cssKB": 17.6,
       "htmlKB": 8.3
     },
     {
       "ruta": "/en/capabilities/ux-ui-product-strategy",
       "titulo": "UX/UI Design, UX Audits and Product Strategy | BluePixel",
       "jsKB": 35.6,
-      "cssKB": 14.1,
+      "cssKB": 17.6,
       "htmlKB": 8.8
     },
     {
       "ruta": "/en/case-studies",
       "titulo": "Case Studies: Compare the Before and After | BluePixel",
       "jsKB": 32.7,
-      "cssKB": 14.1,
+      "cssKB": 17.6,
       "htmlKB": 6.8
     },
     {
       "ruta": "/en/case-studies/mobile-ecommerce-retail",
       "titulo": "Case Study: Mobile E-commerce Redesign for Retail | BluePixel",
       "jsKB": 33.6,
-      "cssKB": 14.1,
+      "cssKB": 17.6,
       "htmlKB": 8.2
     },
     {
       "ruta": "/en/case-studies/multinational-analytics",
       "titulo": "Case: Analytics Dashboards at a Multinational | BluePixel",
       "jsKB": 33.6,
-      "cssKB": 14.1,
+      "cssKB": 17.6,
       "htmlKB": 7.8
     },
     {
       "ruta": "/en/case-studies/suite-ticket-marketplace",
       "titulo": "Case Study: Suite and Ticket Booking Platform | BluePixel",
       "jsKB": 33.6,
-      "cssKB": 14.1,
+      "cssKB": 17.6,
       "htmlKB": 8.2
     },
     {
       "ruta": "/en/case-studies/travel-loyalty-platform",
       "titulo": "Case Study: Travel Loyalty Platform Redesign | BluePixel",
       "jsKB": 33.6,
-      "cssKB": 14.1,
+      "cssKB": 17.6,
       "htmlKB": 8
     },
     {
       "ruta": "/en/contact",
       "titulo": "Contact: Talk to Our Team | BluePixel",
       "jsKB": 42.3,
-      "cssKB": 14.1,
+      "cssKB": 17.6,
       "htmlKB": 6.2
     },
     {
       "ruta": "/en/faq",
       "titulo": "FAQ: AI Agents, Software and Costs | BluePixel",
       "jsKB": 32.7,
-      "cssKB": 14.1,
+      "cssKB": 17.6,
       "htmlKB": 8.5
     },
     {
       "ruta": "/en/futureproof",
       "titulo": "FutureProof Guarantee: Platforms That Evolve | BluePixel",
       "jsKB": 32.7,
-      "cssKB": 14.1,
+      "cssKB": 17.6,
       "htmlKB": 9.1
     },
     {
       "ruta": "/en/information-security-management-system-policy",
       "titulo": "Information Security Policy (ISMS) | BluePixel",
       "jsKB": 31.4,
-      "cssKB": 14.1,
+      "cssKB": 17.6,
       "htmlKB": 5.3
     },
     {
       "ruta": "/en/methodology",
       "titulo": "IMPATH™ Methodology and FutureProof Principles | BluePixel",
       "jsKB": 32.7,
-      "cssKB": 14.1,
+      "cssKB": 17.6,
       "htmlKB": 7.4
     },
     {
       "ruta": "/en/privacy",
       "titulo": "Privacy Notice | BluePixel",
       "jsKB": 31.4,
-      "cssKB": 14.1,
+      "cssKB": 17.6,
       "htmlKB": 7
     },
     {
       "ruta": "/en/self-assessment",
       "titulo": "Public Site Self-Assessment: Score and Method | BluePixel",
       "jsKB": 36.4,
-      "cssKB": 14.1,
-      "htmlKB": 6.1
+      "cssKB": 17.6,
+      "htmlKB": 6
     },
     {
       "ruta": "/en/services",
       "titulo": "Services: Consulting, Agents and Platforms | BluePixel",
       "jsKB": 32.7,
-      "cssKB": 14.1,
+      "cssKB": 17.6,
       "htmlKB": 7.2
     },
     {
       "ruta": "/en/services/agents-automation",
       "titulo": "AI Agent Implementation and Automation | BluePixel",
       "jsKB": 33.6,
-      "cssKB": 14.1,
-      "htmlKB": 10.3
+      "cssKB": 17.6,
+      "htmlKB": 10.2
     },
     {
       "ruta": "/en/services/digital-consulting",
       "titulo": "Digital Consulting: ROI and Roadmap Before You Invest | BluePixel",
       "jsKB": 33.6,
-      "cssKB": 14.1,
+      "cssKB": 17.6,
       "htmlKB": 10.1
     },
     {
       "ruta": "/en/services/digital-evolution",
       "titulo": "Digital Evolution: Continuous Squad and CRO | BluePixel",
       "jsKB": 33.6,
-      "cssKB": 14.1,
-      "htmlKB": 10
+      "cssKB": 17.6,
+      "htmlKB": 10.7
     },
     {
       "ruta": "/en/services/digital-platforms",
       "titulo": "Enterprise Platforms and MVPs with Validated UX | BluePixel",
       "jsKB": 33.6,
-      "cssKB": 14.1,
-      "htmlKB": 10.4
+      "cssKB": 17.6,
+      "htmlKB": 10.3
     },
     {
       "ruta": "/en/terms",
       "titulo": "Terms of Service | BluePixel",
       "jsKB": 31.4,
-      "cssKB": 14.1,
+      "cssKB": 17.6,
       "htmlKB": 6.4
     },
     {
       "ruta": "/en/thank-you",
       "titulo": "Message Received | BluePixel",
       "jsKB": 31.4,
-      "cssKB": 14.1,
-      "htmlKB": 5.3
+      "cssKB": 17.6,
+      "htmlKB": 5.2
     },
     {
       "ruta": "/futureproof",
       "titulo": "Garantía FutureProof: Plataformas que Evolucionan | BluePixel",
       "jsKB": 32.7,
-      "cssKB": 14.1,
+      "cssKB": 17.6,
       "htmlKB": 9.3
     },
     {
       "ruta": "/gracias",
       "titulo": "Mensaje recibido | BluePixel",
       "jsKB": 31.4,
-      "cssKB": 14.1,
+      "cssKB": 17.6,
       "htmlKB": 5.4
     },
     {
       "ruta": "/lp/agentes-ia-produccion",
       "titulo": "Agentes de IA en Producción en tu Nube Privada | BluePixel",
       "jsKB": 33.2,
-      "cssKB": 14.1,
+      "cssKB": 17.6,
       "htmlKB": 5.4
     },
     {
       "ruta": "/lp/automatizacion-procesos-erp",
       "titulo": "Automatización de Procesos sobre tu ERP Actual | BluePixel",
       "jsKB": 29.9,
-      "cssKB": 14.1,
+      "cssKB": 17.6,
       "htmlKB": 4.7
     },
     {
       "ruta": "/lp/desarrollo-apps-enterprise",
       "titulo": "Plataforma Digital Empresarial en 2 a 4 Meses | BluePixel",
       "jsKB": 29.9,
-      "cssKB": 14.1,
+      "cssKB": 17.6,
       "htmlKB": 5
     },
     {
       "ruta": "/lp/diagnostico-operativo-futureproof",
       "titulo": "Sesión de 30 Minutos con un Lead Architect | BluePixel",
       "jsKB": 29.9,
-      "cssKB": 14.1,
+      "cssKB": 17.6,
       "htmlKB": 4.3
     },
     {
       "ruta": "/lp/gracias-pauta",
       "titulo": "Solicitud recibida | BluePixel",
       "jsKB": 10.1,
-      "cssKB": 14.1,
+      "cssKB": 17.6,
       "htmlKB": 3.3
     },
     {
       "ruta": "/metodologia-impath",
       "titulo": "Metodología IMPATH™ y Principios FutureProof | BluePixel",
       "jsKB": 32.7,
-      "cssKB": 14.1,
+      "cssKB": 17.6,
       "htmlKB": 7.6
     },
     {
       "ruta": "/nosotros",
       "titulo": "Nosotros: Ingeniería Senior y Garantía FutureProof | BluePixel",
       "jsKB": 45.5,
-      "cssKB": 14.1,
+      "cssKB": 17.6,
       "htmlKB": 9.6
     },
     {
       "ruta": "/politica-del-sgsi",
       "titulo": "Política del SGSI (Seguridad de la Información) | BluePixel",
       "jsKB": 31.4,
-      "cssKB": 14.1,
+      "cssKB": 17.6,
       "htmlKB": 5.4
     },
     {
       "ruta": "/preguntas-frecuentes",
       "titulo": "Preguntas Frecuentes sobre Agentes de IA y Software | BluePixel",
       "jsKB": 32.7,
-      "cssKB": 14.1,
+      "cssKB": 17.6,
       "htmlKB": 8.6
     },
     {
       "ruta": "/privacidad",
       "titulo": "Aviso de Privacidad | BluePixel",
       "jsKB": 31.4,
-      "cssKB": 14.1,
+      "cssKB": 17.6,
       "htmlKB": 7.3
     },
     {
       "ruta": "/servicios",
       "titulo": "Servicios: Consultoría, Agentes y Plataformas | BluePixel",
       "jsKB": 32.7,
-      "cssKB": 14.1,
+      "cssKB": 17.6,
       "htmlKB": 7.4
     },
     {
       "ruta": "/servicios/agentes-automatizacion",
       "titulo": "Implementación de Agentes de IA y Automatización | BluePixel",
       "jsKB": 33.6,
-      "cssKB": 14.1,
+      "cssKB": 17.6,
       "htmlKB": 10.4
     },
     {
       "ruta": "/servicios/consultoria-digital",
       "titulo": "Consultoría Digital: ROI y Roadmap Antes de Invertir | BluePixel",
       "jsKB": 33.6,
-      "cssKB": 14.1,
+      "cssKB": 17.6,
       "htmlKB": 10.3
     },
     {
       "ruta": "/servicios/evolucion-digital",
       "titulo": "Evolución Digital: Squad Continuo y CRO | BluePixel",
       "jsKB": 33.6,
-      "cssKB": 14.1,
-      "htmlKB": 10.2
+      "cssKB": 17.6,
+      "htmlKB": 10.9
     },
     {
       "ruta": "/servicios/plataformas-digitales",
       "titulo": "Plataformas y MVPs Empresariales con UX Validado | BluePixel",
       "jsKB": 33.6,
-      "cssKB": 14.1,
+      "cssKB": 17.6,
       "htmlKB": 10.6
     },
     {
       "ruta": "/terminos",
       "titulo": "Términos y Condiciones | BluePixel",
       "jsKB": 31.4,
-      "cssKB": 14.1,
+      "cssKB": 17.6,
       "htmlKB": 6.6
     }
   ],
