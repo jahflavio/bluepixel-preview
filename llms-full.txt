@@ -52,10 +52,10 @@ Qué recibes:
 
 Preguntas:
 - **¿Cuál es la diferencia entre UX/UI y estrategia de producto?** UX/UI define cómo se ve y se siente el producto; la estrategia de producto define qué producto construir, para quién y en qué orden. Las trabajamos juntas para que el diseño responda a un objetivo de negocio medible.
-- **¿Validan el diseño con usuarios reales?** Sí. En la modalidad Plataformas Digitales el prototipo se valida con usuarios reales antes de pasar a desarrollo.
-- **¿Entregan un Design System?** Sí. Entregamos componentes y tokens documentados que el equipo de ingeniería consume directamente.
+- **¿Validan el diseño con usuarios reales?** Sí. En Plataformas Digitales (Servicio 03) el prototipo interactivo se prueba con usuarios reales antes de pasar a desarrollo, para corregir lo que no se entiende cuando todavía es barato cambiarlo. La investigación sigue la metodología IMPATH™, que conecta la conducta del usuario con su costo para el negocio, y lo que se aprende queda en el backlog priorizado por impacto.
+- **¿Entregan un Design System?** Sí. BluePixel entrega un Design System con componentes y tokens documentados (color, tipografía, espaciado y estados) que el equipo de ingeniería consume directamente en el código. Así la interfaz se mantiene igual en web y móvil, y cada pantalla nueva se arma con piezas ya probadas en lugar de rediseñarse desde cero, lo que también acelera las siguientes entregas.
 - **¿También desarrollan el código?** Sí. La capacidad de Desarrollo de Software construye lo que se diseña, o entregamos el Design System y el prototipo documentados para que los programe tu equipo.
-- **¿Pueden rediseñar una plataforma que ya está en producción?** Sí. Primero mapeamos dónde se atora el usuario y rediseñamos lo que más impacto tiene, por partes y sin detener la operación.
+- **¿Pueden rediseñar una plataforma que ya está en producción?** Sí. Primero se mapea dónde se atora el usuario con un diagnóstico de fricción IMPATH™ y datos de comportamiento, y después se rediseña lo que más impacto tiene, por partes y sin detener la operación. Así la plataforma mejora en cada entrega en lugar de esperar un relanzamiento completo; un ejemplo es el rediseño de la compra móvil de una cadena de retail.
 
 ### Desarrollo de Software
 https://bluepixel.ai/capacidades/software-engineering
@@ -107,9 +107,9 @@ Qué recibes:
 - Arquitectura agnóstica de proveedor: el modelo se cambia por configuración: Si sale un modelo mejor, se cambia por configuración.
 
 Preguntas:
-- **¿Mis datos se envían a un modelo público?** Diseñamos para que los datos y el código residan en tu nube privada, y el modelo es configurable para evitar dependencia de un solo proveedor.
-- **¿Reemplazan mi ERP o mi CRM?** No. Conectamos los agentes a tus sistemas actuales (SAP, Salesforce, ERPs, APIs) mediante el protocolo MCP, sin reemplazarlos.
-- **¿Con qué modelos de IA trabajan?** Con el que mejor resuelva tu caso. La arquitectura es agnóstica: cambiar de modelo o de proveedor es configuración, no rehacer el agente.
+- **¿Mis datos se envían a un modelo público?** No por defecto. BluePixel diseña los agentes para que los datos y el código residan en tu nube privada (VPC), y el RAG consulta tus documentos ahí mismo. Qué modelo se usa y dónde corre se define contigo según la sensibilidad de los datos, con guardrails y DLP que impiden que información confidencial salga hacia servicios externos.
+- **¿Reemplazan mi ERP o mi CRM?** No. BluePixel conecta los agentes a los sistemas que ya usas, como SAP, Salesforce, otros ERP y CRM o APIs bancarias y logísticas, mediante conectores determinísticos vía MCP, un protocolo abierto. Tus sistemas siguen siendo la fuente de la información: el agente consulta y ejecuta acciones sobre ellos con permisos definidos, y cada ejecución queda registrada.
+- **¿Con qué modelos de IA trabajan?** Con el que mejor resuelva tu caso según precisión, costo de inferencia y dónde deben vivir los datos; no hay un proveedor fijo. La arquitectura de BluePixel es agnóstica: el modelo se conecta por configuración, así que si mañana sale uno mejor o más barato se cambia sin rehacer el agente. El costo de inferencia se calcula antes de construir.
 
 ### Datos y Analítica
 https://bluepixel.ai/capacidades/data-analytics
@@ -131,7 +131,7 @@ Qué recibes:
 - UX Health Score continuo dentro de Evolución Digital: La salud de la experiencia, medida mes a mes.
 
 Preguntas:
-- **¿Qué herramientas de analítica usan?** Mixpanel para telemetría de producto, pipelines de datos y tableros ejecutivos sobre la herramienta que ya tengas, como Power BI, Tableau o Looker.
+- **¿Qué herramientas de analítica usan?** Mixpanel para la telemetría de producto, es decir, qué hacen los usuarios dentro de la plataforma, y pipelines de datos que llevan esa información a tableros ejecutivos. Los tableros se construyen sobre la herramienta que tu empresa ya usa, como Power BI, Tableau o Looker, para no sumar otra licencia. Cada cifra queda rastreable hasta el evento que la originó.
 - **¿La medición respeta el consentimiento del usuario?** Sí. Diseñamos la medición para respetar el consentimiento del usuario y la LFPDPPP; en este sitio, las señales de medición y publicidad nacen denegadas hasta que el visitante decide.
 
 ### Seguridad y Confiabilidad
@@ -153,11 +153,11 @@ Qué recibes:
 - Matriz de accesos: Quién puede hacer qué en cada sistema, con el mínimo privilegio necesario.
 
 Preguntas:
-- **¿Qué credenciales de seguridad tienen?** Contamos con certificación vigente de CyberVadis y aplicamos las mejores prácticas de OWASP Top 10 en cada release.
+- **¿Qué credenciales de seguridad tienen?** BluePixel tiene la certificación CyberVadis vigente, que evalúa sus prácticas de seguridad como proveedor, y aplica OWASP Top 10 en cada release. Esto se complementa con análisis de código (SAST) y escaneo de dependencias en el pipeline de cada proyecto. Para los cuestionarios de seguridad de proveedor se entregan los controles técnicos documentados, de modo que tu equipo de riesgo revisa evidencia concreta y no solo una lista de buenas intenciones.
 - **¿Qué cubre exactamente la capacidad de seguridad?** La seguridad de lo que construimos: arquitectura Zero-Trust, hardening OWASP Top 10 en cada release, análisis de código y dependencias en el pipeline, cifrado y aislamiento en VPC, y guardrails para IA. La auditoría independiente la hace una firma especializada; nosotros corregimos lo que encuentre.
-- **¿Pueden remediar los hallazgos de una auditoría externa?** Sí. Recibimos los hallazgos que entregue una firma de seguridad y los remediamos en el código y en la arquitectura.
+- **¿Pueden remediar los hallazgos de una auditoría externa?** Sí. BluePixel recibe los hallazgos que entregue una firma de seguridad independiente, los prioriza por riesgo y los corrige en el código, en la configuración de la nube y en la arquitectura. Cada corrección queda documentada para que la firma la vuelva a verificar. La auditoría en sí no la hacemos nosotros: la hace la firma especializada, y nosotros remediamos.
 - **¿Pueden ayudarme a responder el cuestionario de seguridad de un proveedor?** En lo técnico, sí. Entregamos controles técnicos documentados (cifrado, aislamiento en VPC, trazabilidad de accesos, análisis de código y dependencias en el pipeline) que sirven de base para responder los cuestionarios de proveedor de tu cliente o de tu área de compras.
-- **¿Dónde viven mis datos?** En tu propia nube privada (VPC), con cifrado en reposo y en tránsito y trazabilidad de accesos.
+- **¿Dónde viven mis datos?** En la nube privada (VPC) de tu empresa, no en la de BluePixel. Los datos se cifran en reposo y en tránsito, y cada acceso queda registrado para auditarlo. Como la arquitectura usa protocolos abiertos y la infraestructura vive en tu cuenta, si un día cambias de proveedor de nube o de equipo, los datos y el código se quedan contigo.
 - **¿Puedo cambiar de proveedor de nube o de modelo de IA más adelante?** Sí. Diseñamos arquitecturas desacopladas sobre protocolos abiertos como MCP, sin vendor lock-in: si sale un nuevo modelo o cambias de proveedor, el sistema conmuta por configuración sin rehacer la plataforma. El código y los datos residen en tu nube privada.
 - **¿Cómo se protegen los datos que usa un agente de IA?** Con guardrails y DLP para IA, blindaje de prompts y de los datos del RAG, aislamiento en tu VPC y cifrado en reposo y en tránsito.
 
@@ -180,8 +180,8 @@ Qué recibes:
 - Business case con ROI proyectado y costo de inacción: El retorno proyectado y lo que cuesta esperar.
 
 Preguntas:
-- **¿Recomiendan software de terceros o solo desarrollo a la medida?** Lo que más convenga al negocio. Si una licencia que ya existe resuelve el problema mejor y más barato que construir, eso recomendamos.
-- **¿Es obligatorio empezar por la consultoría?** No. Los cuatro servicios son formas independientes de trabajar: puedes entrar directamente por el que corresponda al momento de tu empresa.
+- **¿Recomiendan software de terceros o solo desarrollo a la medida?** Recomendamos lo que más convenga al negocio, aunque no sea desarrollo. Si una licencia que ya existe resuelve el problema mejor y más barato que construir, eso va en la recomendación. La decisión sale del business case: se compara el costo de construir, el de licenciar y el costo de inacción, y se deja por escrito en el roadmap.
+- **¿Es obligatorio empezar por la consultoría?** No. Los cuatro servicios de BluePixel son formas independientes de trabajar: puedes entrar directo a Agentes & Automatización, a Plataformas Digitales o a Evolución Digital. La consultoría conviene cuando todavía no está claro qué construir, en qué orden o con qué retorno; en 2 a 4 semanas entrega el backlog priorizado y el business case.
 
 ## Casos de estudio
 
@@ -300,7 +300,7 @@ Un equipo de roles senior según el servicio: Tech Lead, AI Engineer, Senior Ful
 Detalle: https://bluepixel.ai/nosotros
 
 **¿BluePixel trabaja con empresas fuera de México?**
-Sí: BluePixel trabaja con empresas de México y Latinoamérica, en español y en inglés. El equipo opera desde México.
+Sí. BluePixel trabaja con empresas de México y de Latinoamérica, en español y en inglés, y los proyectos se operan a distancia con sesiones de trabajo agendadas. El equipo está en México, así que comparte zona horaria con buena parte de la región. Entre sus casos está la plataforma de lealtad de una aerolínea latinoamericana.
 Detalle: https://bluepixel.ai/casos-de-estudio
 
 **¿Dónde puedo ver proyectos que ha hecho BluePixel?**
