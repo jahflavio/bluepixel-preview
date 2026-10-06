@@ -54,7 +54,7 @@ Idioma: español (México), con versión completa en inglés en https://bluepixe
 
 ## Contacto
 
-- [Contacto](https://bluepixel.ai/contacto) · hello@bluepixel.mx · WhatsApp +52 55 5255 3013
+- [Contacto](https://bluepixel.ai/contacto) · hello@bluepixel.mx · WhatsApp +52 55 4484 4212
 
 # BluePixel (English)
 
@@ -112,4 +112,4 @@ Language: English. Home: https://bluepixel.ai/en. The Spanish site (https://blue
 
 ## Contact
 
-- [Contact](https://bluepixel.ai/en/contact) · hello@bluepixel.mx · WhatsApp +52 55 5255 3013
+- [Contact](https://bluepixel.ai/en/contact) · hello@bluepixel.mx · WhatsApp +52 55 4484 4212
