@@ -1,7 +1,7 @@
 {
   "motor": "autoevaluacion-local v1",
-  "generadoEn": "2026-10-06T13:33:22.188Z",
-  "buildId": "9e5242f3",
+  "generadoEn": "2026-10-06T13:40:48.412Z",
+  "buildId": "515d4e6c",
   "indexable": false,
   "puntaje": 979,
   "maximo": 1000,
@@ -575,7 +575,7 @@
       "titulo": "AI Agents for Enterprises in Mexico | BluePixel",
       "jsKB": 36.6,
       "cssKB": 17.8,
-      "htmlKB": 8.2
+      "htmlKB": 8.3
     },
     {
       "ruta": "/en/capabilities/data-analytics",
@@ -680,7 +680,7 @@
       "titulo": "FutureProof Guarantee: Platforms That Evolve | BluePixel",
       "jsKB": 33.3,
       "cssKB": 17.8,
-      "htmlKB": 9.1
+      "htmlKB": 9.2
     },
     {
       "ruta": "/en/information-security-management-system-policy",
