@@ -233,6 +233,18 @@ Solución: Un sistema de diseño para analítica, con jerarquía visual, compone
 Impacto: Dashboards más claros y accionables; Adopción global del sistema de diseño; Más coherencia entre regiones; Colaboración extendida a varios departamentos.
 Alcance (hechos del proyecto): 1 sistema de diseño para analítica, replicable por los equipos internos; 5 frentes de la solución, del rediseño de dashboards a las guías; Power BI plataforma de los dashboards.
 
+### Financiamiento inmobiliario (Servicios financieros · plataforma web)
+https://bluepixel.ai/casos-de-estudio/plataforma-financiamiento-inmobiliario
+
+Contenidos que Marketing publica en minutos, sin esperar una o dos semanas a un tercero.
+
+Objetivo: Rediseñar la experiencia web de una empresa de financiamiento inmobiliario, alternativa al crédito hipotecario bancario, y construir una plataforma más rápida, flexible y fácil de operar para su equipo de Marketing.
+Desafío: Un sitio en WordPress con fricción al navegar y que dependía de un tercero hasta para actualizar contenidos.
+Enfoque: Descubrimiento UX (UX discovery); Pruebas de usabilidad (usability testing); Rediseño de la experiencia UX/UI; Desarrollo headless con React y Strapi.
+Solución: Descubrimiento UX y pruebas de usabilidad, rediseño de la experiencia y una plataforma nueva en React y Strapi que Marketing administra sin depender de nadie.
+Impacto: Marketing actualiza contenidos, formularios y el blog sin depender de terceros; Ajustes que tardaban de una a dos semanas, ahora en minutos; Una plataforma más rápida y con mejor rendimiento en móvil.
+Alcance (hechos del proyecto): 2 frentes atendidos: la navegación del usuario y la operación del sitio; 4 etapas, del descubrimiento UX al desarrollo; Headless contenidos administrados aparte de la interfaz.
+
 ## Preguntas frecuentes
 
 ### Servicios y plazos
@@ -556,6 +568,18 @@ Approach: Interviews with executive and operational users; Identifying the truly
 Solution: A design system for analytics, with visual hierarchy, standardized components and guidelines internal teams can replicate.
 Impact: Clearer, more actionable dashboards; Global adoption of the design system; More consistency across regions; Collaboration extended to several departments.
 Scope (project facts): 1 design system for analytics, replicable by internal teams; 5 solution areas, from dashboard redesign to guidelines; Power BI dashboard platform.
+
+### Real estate financing (Financial services · web platform)
+https://bluepixel.ai/en/case-studies/real-estate-financing-platform
+
+Content that Marketing publishes in minutes, without waiting one or two weeks for a third party.
+
+Goal: Redesign the web experience of a real estate financing company, an alternative to bank mortgages, and build a faster, more flexible platform that is easier for its Marketing team to run.
+Challenge: A WordPress site with friction in navigation that depended on a third party even to update content.
+Approach: UX discovery; Usability testing; UX/UI experience redesign; Headless development with React and Strapi.
+Solution: UX discovery and usability testing, a redesigned experience and a new platform in React and Strapi that Marketing runs on its own.
+Impact: Marketing updates content, forms and the blog without depending on third parties; Changes that took one to two weeks now take minutes; A faster platform with better mobile performance.
+Scope (project facts): 2 areas addressed: user navigation and site operation; 4 stages, from UX discovery to development; Headless content managed separately from the interface.
 
 ## Frequently asked questions
 

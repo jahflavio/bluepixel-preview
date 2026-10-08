@@ -40,6 +40,7 @@ Idioma: español (México), con versión completa en inglés en https://bluepixe
 - [Marketplace de palcos y boletos](https://bluepixel.ai/casos-de-estudio/marketplace-palcos-boletos): Elegir palco sobre el mapa del recinto, con el evento siempre a la vista.
 - [Aerolínea latinoamericana](https://bluepixel.ai/casos-de-estudio/plataforma-lealtad-viajes): Un solo inicio de sesión, millas a la vista y beneficios en tarjetas.
 - [Multinacional de alimentos](https://bluepixel.ai/casos-de-estudio/analitica-multinacional): De dashboards de Power BI sin criterio común a un sistema de diseño para analítica.
+- [Financiamiento inmobiliario](https://bluepixel.ai/casos-de-estudio/plataforma-financiamiento-inmobiliario): Contenidos que Marketing publica en minutos, sin esperar una o dos semanas a un tercero.
 
 ## Preguntas frecuentes
 
@@ -98,6 +99,7 @@ Language: English. Home: https://bluepixel.ai/en. The Spanish site (https://blue
 - [Suite and ticket marketplace](https://bluepixel.ai/en/case-studies/suite-ticket-marketplace): Pick a suite on the venue map, with the event details always in view.
 - [Latin American airline](https://bluepixel.ai/en/case-studies/travel-loyalty-platform): One sign-in, miles in plain sight and benefits on visual cards.
 - [Multinational food company](https://bluepixel.ai/en/case-studies/multinational-analytics): From Power BI dashboards with no shared criteria to a design system for analytics.
+- [Real estate financing](https://bluepixel.ai/en/case-studies/real-estate-financing-platform): Content that Marketing publishes in minutes, without waiting one or two weeks for a third party.
 
 ## FAQ
 
